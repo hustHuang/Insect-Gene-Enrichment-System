@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en" >
+
+    <head>
+        <meta charset="utf-8" />
+        <meta name="author" content="Ruven Pillay &lt;ruven@users.sourceforge.netm&gt;"/>
+        <meta name="keywords" content="IIPImage HTML5 Ajax IIP Zooming Streaming High Resolution Mootools"/>
+        <meta name="description" content="IIPImage: High Resolution Remote Image Streaming Viewer"/>
+        <meta name="copyright" content="&copy; 2003-2011 Ruven Pillay"/>
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        <meta http-equiv="X-UA-Compatible" content="IE=9" />
+
+        <link rel="stylesheet" type="text/css" media="all" href="css/iip.css" />
+        <link rel="stylesheet" type="text/css" href="css/imgareaselect-default.css" />
+        <!--[if lt IE 9]>
+          <link rel="stylesheet" type="text/css" media="all" href="css/ie.css" />
+        <![endif]-->
+
+        <script type="text/javascript" src="javascript/jquery.min.js"></script>
+        <script type="text/javascript">
+            var $j = jQuery.noConflict();
+            function preview(img, selection) {
+                if (!selection.width || !selection.height)
+                    return;
+                alert("Location: (" + selection.x1 + "," + selection.y1 + "),(" + selection.x2 + "," + selection.y1 + "),(" + selection.x1 + "," + selection.y2 + "),(" + selection.x2 + "," + selection.y2 + ")");  
+            }
+        </script>
+        <script type="text/javascript" src="javascript/jquery.imgareaselect.js"></script>
+        <script type="text/javascript" src="../inc/js/lib/lhgdialog.min.js"></script>
+        <script type="text/javascript" src="javascript/mootools-core-1.3.2-full-nocompat.js"></script>
+        <script type="text/javascript" src="javascript/mootools-more-1.3.2.1.js"></script>
+        <script type="text/javascript" src="javascript/protocols.js"></script>
+        <script type="text/javascript" src="javascript/iipmooviewer.js"></script>
+
+        <!--[if lt IE 7]>
+          <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js">IE7_PNG_SUFFIX = ".png";</script>
+        <![endif]-->
+
+
+        <script type="text/javascript">
+            function targetclick(e){
+                var xx, yy;
+                xx = e.target.offsetLeft + e.event.offsetX;
+                yy = e.target.offsetTop + e.event.offsetY;
+                //alert("XX= " + xx + " and YY = " + yy);
+            }
+            // The iipsrv server path (/fcgi-bin/iipsrv.fcgi by default)
+        </script>
+        <link rel="stylesheet" type="text/css" href="../inc/css/jquery.ui.all.css" />
+        <style type="text/css">
+             body{ height:100%; }
+             div#viewer{ width: 100%; height: 100%; }
+            .single_line{background-color:yellow;position: absolute;z-index:3;}
+            .tag{width: 24px;height:60px;z-index: 5;font-size:10px;line-height: 24px;;position:absolute;text-align:center;}
+            .p{background:url('images/50.ico') no-repeat center bottom;color: #FFF;}
+            .n{background:url('images/47.ico') no-repeat center bottom;color: #FFF;}
+            .navTag{width:2px;height:2px;display:block;background-color:#FFF; position: absolute;z-index:2;}
+            .credit{display: none;}
+            .ui_dialog{color: #000;}
+        </style>
+    </head>
+
+    <body>
+
+        <div id="viewer"></div>
+        <script type="text/javascript">
+            $j(function(){
+                var server = '/fcgi-bin/IIPImageServer.fcgi';
+                //var server = 'http://115.156.216.80/fcgi-bin/iipsrv.fcgi';
+	
+                // The *full* image path on the server. This path does *not* need to be in the web
+                // server root directory. On Windows, use Unix style forward slash paths without
+                // the "c:" prefix
+                //var images = 'E:/Projects/PHP/iipmooviewer2/PalaisDuLouvre.tif';
+                //var images = 'E:/Projects/PHP/iipmooviewer2/fg30_2.tif'
+                var images = 'D:/WebRoot/SGA_07/iipmooviewer2/fg30_2.tif'
+
+                // Copyright or information message
+                var credit = '&copy; copyright or information message';
+
+                // Create our viewer object
+                // See documentation for more details of options
+                var iipmooviewer = new IIPMooViewer( "viewer", {
+                    image: images,
+                    server: server,
+                    credit: credit, 
+                    scale: 20.0,
+                    viewport:{resolution:4.5,x:0,y:0, rotation:0},
+                    showNavWindow: true,
+                    showNavButtons: true,
+                    winResize: true,
+                    protocol: 'iip',
+                    targetclick: targetclick
+                });
+                //script  
+                var d=parent.document.getElementById('hm_view').getAttribute('d'); //get the input genes       
+                //alert(d);
+                var query_names=$j.trim(d).split(' ');
+                _rows=getText('../data/rows.txt');
+                _cols=getText('../data/cols.txt');
+                var rows=_rows.split('\n');
+                var cols=_cols.split('\n');
+                $j.each(query_names,function(i,e){
+                    var x=getPos(e,cols);  
+                    if(x>=0){ 
+                        var lineItemX='<div id="x_line_'+x+'" class="single_line x_line" style="width:1px;top:0px;"></div>';
+                        $j('#viewer').append(lineItemX);//add vertical line 
+                    }
+                    var y=getPos(e,rows);
+                    if(y>=0){
+                        var lineItemY='<div id="y_line_'+y+'" class="single_line y_line" style="height:1px;left:0px;"></div>';
+                        $j('#viewer').append(lineItemY); //add horizonal line
+                    }
+                });
+                $j('.tag').live('click',function(){
+                    //alert($j(this).attr('pos'));
+                    var x=$j(this).attr('pos').split('_')[0];
+                    var y=$j(this).attr('pos').split('_')[1];
+                    //var query=cols[x].split('_')[0];
+                    //var array=rows[y].split('_')[0];
+                    var array=cols[x];
+                    var query=rows[y];
+                    //alert(query+'_'+array);
+                    var top=$j(this).offset().top;
+                    var left=$j(this).offset().left;
+                    var score=getScore(query,array);
+                    $j('.tag_dialog').remove();
+                    $j('#viewer').append('<div class="tag_dialog"></div>');
+                    var infor='<p><b>query :</b> '+query.split('_')[0]+'<br/> <b>array :</b> '+array.split('_')[0]+'<br /> <b>score :</b> '+score+'</p>';
+                    $j('.tag_dialog').dialog({
+                        id: 'id',
+                        title: 'Interaction-score',
+                        width: 150,
+                        height: 100,
+                        left: left+240,
+                        top:top+50,
+                        cancelBtn: false,
+                        iconTitle:false,
+                        rang: true,
+                        content:infor
+                    });
+                    $j('.tag_dialog').trigger("click");
+                });
+            });
+            
+            function getText(url){      //  get txt use ajax
+                var txt;
+                $j.ajax({
+                    type: 'POST',
+                    url:url,
+                    dataType: "text",
+                    async: false,   
+                    success:function(d){
+                        txt=d;  
+                    }
+                });
+                return txt;       
+            } 
+            
+            function getPos(gene,arrs){		// get position of gene in txt files
+                for(var i=0;i<arrs.length;i++){
+                    var arr=$j.trim(arrs[i]).split('_')[0];
+                    if(gene==arr){
+                        return i;
+                        break;
+                    }      
+                }
+                return -1;
+            } 
+            
+            function getScore(query,array){
+                var score; 
+                $j.ajax({
+                    type: 'POST',
+                    url:'../ajax_get_score.php',
+                    dataType:"JSON",
+                    data:{
+                        query:query,
+                        array:array
+                    },
+                    async: false,
+                    success: function(data){
+                        if(data!=null&&data!=''&&data!=-2){
+                            score=data;
+                        }else{
+                            score=0;
+                        }
+                    }
+                }); 
+                return score;
+            }       
+        </script>
+    </body>
+</html>

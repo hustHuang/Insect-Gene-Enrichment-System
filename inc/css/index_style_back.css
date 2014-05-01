@@ -1,0 +1,107 @@
+root { 
+    display: block;
+}
+*{margin: 0;padding: 0;}
+body{background: url('../images/background_img.png') repeat scroll transparent;font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;}
+.main{width: 960px;height: 680px;position: absolute;top: 50%;left: 50%;margin-left: -480px;margin-top: -340px;}
+.clear{clear:both;}
+.left{float: left;overflow: hidden;width: 260px;margin: 0 20px 0px 0px;padding-top: 45px;}
+.right{float: right;width: 680px;overflow: hidden;position: relative;height: 680px;}
+
+/*********图片选择效果************/
+h4{font-size: 30px;font-weight: normal;color: #ffffff;line-height: 50px;float: left}
+.chosen{outline:3px #ffffff solid;}
+.selected{background:url('../images/chosen.png') no-repeat transparent;height:32px;width:32px;display:block;position: absolute;top: -1px;right: -1px;}
+.search_function input{display:none;}
+.dataset input{display:none;}
+
+/*********search function************/
+.row1{height: 130px;width:260px;}
+.row1_left{float: left;height: 130px;width: 130px;}
+.row1_right{float: left;height: 130px;width: 130px}
+.row2{height: 130px;width: 260px;float: left}
+.row3{height: 130px;width: 260px;float: left}
+
+.row1_left_pic{margin:5px;position: relative;cursor: pointer;color: #ffffff;height: 120px;width: 120px;background-color: #f09609;border:1px solid #f4ab37;display: block;}
+.row1_right_pic{margin:5px;position: relative;cursor: pointer;color: #ffffff;height: 120px;width: 120px;background-color: #b11e39;border:1px solid #b74258;display: block;}
+.row2_pic {margin:5px;cursor: pointer;color: #ffffff;position: relative;height: 120px;width: 250px;background-color: #a05000;border:1px solid #a5621e;display: block;}
+.row3_pic {margin:5px;cursor: pointer;color: #ffffff;position: relative;height: 120px;width: 250px;background:url('../images/heatmap.png') no-repeat 10px 12px #03437e;border:1px solid #1e5b92;display: block;}
+.row3 img{float: left;}
+
+.row1_left_pic:hover {outline: 3px #ffffff solid;}
+.row1_right_pic:hover {outline: 3px #ffffff solid;}
+.row2_pic:hover {outline: 3px #ffffff solid;}
+.row3_pic:hover {outline: 3px #ffffff solid;}
+.search_function p{position:absolute;line-height:25px;margin:20px 10px 0 10px;font-size:16px;}
+
+/*********右侧search主区域************/
+h1{font-weight: normal;color: #ffffff;font-size: 60px;line-height: 75px;}
+.search_area{width: 648px;height: 60px;width: 680px;margin-top: 10px;}
+.search_area .search_text{line-height:40px;font-size: 20px;width:600px;height: 40px;border:0;background:#626262 fixed;color: #ffffff;margin:10px 10px 10px 0;padding-left: 5px;padding-right: 5px;float: left}
+.search_area .search_btn{background: url('../images/search_btn.png') no-repeat transparent;height: 48px;width: 48px;margin: 6px 0 6px 0;display: block;border:none;cursor:pointer;float: right;display: inline}
+
+/*********设置搜索参数************/
+.set_search{height: 70px}
+.set_search a{color: #ffffff;}
+.show_upload:hover{color:#1ba1e2}
+.set__parameters:hover{color: #1ba1e2}
+
+.upload_genelist{width: 611px;}
+.upload_genelist a{height: 35px;float: left;}
+.show_upload_genelist{display: none;color: #ffffff;margin-left: 155px;}
+.show_upload_genelist p{height: 15px;font-size: 14px;line-height: 15px}
+
+.set_search_parameters a{height: 35px;float: left}
+.show_parameters{display: none;background-color: #1E5B92;color: #ffffff;width: 400px;height: 250px;z-index: 1;margin: 0 0 0 212px}
+.show_parameters p{padding: 5px 10px 5px 5px;float: left;width: 300px;text-align: right;}
+.show_parameters input{width: 50px;height: 25px;margin-top: 5px;background: none repeat fixed 0 0 #ffffff;color: #000000;border: 0 none;line-height:25px}
+
+.zk1{font-size: 10px;margin-left: 5px;color: #b11e39;width: 14px}
+.zk2{font-size: 10px;margin-left: 5px;color: #b11e39;width: 14px}
+
+/*********上传************/
+.file-box{ position:relative;width:340px}
+.txt{float:left;height:27px; border:none; width:324px;background: none repeat fixed #626262;line-height:27px}
+/*.btn{background-color:#008287;height:24px; width:60px;cursor: pointer;border: none;color: #ffffff;}*/
+.btn{float:right;background-color:#008287;height:26px; width:125px;cursor: pointer;border: none;color: #ffffff;line-height: 26px;margin-right: 2px;font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;}
+.file{position:absolute; top:0; right:0px; height:26px; filter:alpha(opacity:0);opacity: 0;width:260px;line-height: 26px} 
+.btn:hover{color: #000000;}
+
+/*********info************/
+.info{width: 630px;height: 294px;position: relative;}
+.info p{color: #ffffff;overflow:hidden;line-height: 25px; }
+.show_info{position: absolute;top:5px;display: none}
+.info1{padding:0 0 0 50px;}
+.info1 p{padding-top: 30px}
+.info1 #demo2{margin-right: 30px;float: left;}
+.info2{padding: 30px 0 0 60px;}
+.info2 #demo1{float: left;margin-right: 30px;}
+.info3{padding:0 0 0 45px}
+.info3 #demo3{float: left;margin-right: 30px;}
+.info4{padding: 20px 0 0 60px;}
+.info4 img{padding-right: 30px;width: 180px;float: left;}
+.info5,.info6,.info7,.info8{padding: 20px 30px 0 30px}
+.info9 p{font-size: 14px;line-height: 20px}
+.info11{padding-left: 20px;}
+.info11 p{padding-top: 5px;}
+.info11 img{width: 580px}
+.info10 {width:495px;height: 280px;padding-left: 30px;}
+
+/*********introduction************/
+.introduction{height: 130px;position: absolute;bottom: 20px;}
+.introduction_box{height: 130px;width: 130px;float: left;}
+.introduction .introduction_box .box{margin:5px;cursor: pointer;height: 120px;width: 120px;color: #ffffff;text-align: center;}
+.box:hover{outline:3px solid #ffffff}
+.box1{background-color: #339933;border:1px solid #4dc24d;}
+.box2{background-color: #1ba1e2;border:1px solid #1ab4e0;}
+.box3{background: url('../images/tutorial.png') no-repeat center 40px #662d91;border:1px solid #8842bc;}
+.box4{border:1px solid #64645c;}
+.box5{background-color: #e65f20;border:1px solid #eb7a3a;}
+.introduction p {margin:10px 10px 0 10px;line-height:23px;font-size:16px;}
+
+/*********dataset************/
+.dataset{width: 200px;white-space:normal;margin-top: 0px;overflow: hidden;}
+.dataset .dataset_box{height: 120px;width: 190px;float: left;}
+.db1,.db2,.db3,.db4{margin:5px;position: relative;cursor: pointer;height:120px;width:190px;background:url('../images/dataset.png') no-repeat 15px 15px #1ba1e2;border:1px solid #1ab4e0;color: #ffffff;line-height: 30px;text-indent: 50px;display: block;}
+.db:hover{outline:3px #ffffff solid;}
+.dataset_box p{margin-left:45px;margin-top:18px;line-height: 30px;text-indent: 20px;}

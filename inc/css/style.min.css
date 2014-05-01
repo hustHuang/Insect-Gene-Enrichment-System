@@ -1,0 +1,18 @@
+#container{position:relative}
+.header{position:relative;width:650px}
+/*.tileStage{position:relative;margin-left:8px;margin-top:50px}*/
+.blockdiv{margin-top:30px}
+#sourceLine{font-size:1.2em;color:#999;margin-left:8px}
+.month{display:block;width:21px;height:21px;border:1px solid white}
+.monthActive{border:1px solid #333}
+.recessionMonth{outline:1px solid #333}
+.yearActive{font-weight:bold;color:#333}
+.yearCol{width:21px;float:left;margin-left:2px}
+.monthsCol{width:100px;float:left;text-align:right;margin-top:100px;margin-right:15px;line-height:2.6em;clear:both}
+.year{height:100px;width:22px;}
+.monthLabel{color:#999;font-size: 10px;margin: 0px;padding: 0px;height: 23px;line-height: 26px;width: 100%}
+.tileStage text{fill:#999}
+#hoverBox{display:none;position:absolute;z-index:2;color:#333;background-color:#FFF;font-family:Arial;font-weight:bold;font-size:12px;outline:1px solid #999;padding:4px}#key{position:absolute;right:8px;top:16px;width:250px;height:60px;font-size:1.2em}#keyLabel{margin:0 0 4px 0}
+#keyVals{clear:both;margin-top:20px}
+.keyColor{width:24px;height:11px;outline:1px solid white;float:left}
+.keyVal{position:relative;left:-10px;float:left;text-align:center;width:20px;margin-right:4px;color:#999}.recessionButton{position:relative;top:6px;color:#093d72;font-weight:bold;cursor:pointer;z-index:100}.recessionButton:hover{color:#c74b15}.buttonText{float:left;margin-left:4px}#plusMinus{clear:both;position:relative;background-image:url('../images/hideShow.png');margin-top:1px;width:9px;height:9px;float:left}.minus{background-position:0 -9px}.marker{position:relative;top:10px;margin:auto;height:4px;width:5px;background-color:white;border:1px solid #999}input{margin-right:5px}

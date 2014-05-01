@@ -1,0 +1,265 @@
+
+
+#martin a { text-decoration: none}
+#martin a:hover,#martin a:active { outline: none; }
+
+.ie7 #martin img { -ms-interpolation-mode: bicubic; }
+#martin img { width: auto; height: auto; }
+
+#martin h1,#martin h2,#martin h3,#martin h4,#martin h5,#martin h6 { font-weight: normal; }
+#martin a,#martin a:active,#martin a:visited { color: #607890; }
+#martin a:hover { color: #036; }
+
+
+
+#martin {
+    width: 495px;
+    height: 280px;
+    /*clear: both;
+    margin: 0px 5px;
+    margin: 20px auto 50px;*/
+    background-color: #FFF;
+    padding-left: 2px;
+    padding-top: 2px;
+    font-family:  'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+}
+
+#martin #filters {
+    float:right;
+    display:block;
+    height:30px;
+}
+
+#filters ul {
+    display:inline;
+}
+
+
+.boxgrid { 
+    margin: 0 2px 2px 0;
+    float:left; 
+    border: none;
+    overflow: hidden; 
+    position: relative;
+}
+
+.boxgrid img{ 
+    position: absolute;
+    /*top: 0;*/ 
+    left: 0;
+    border: none; 
+}
+
+.boxgrid #flickr {
+    left: -40px; 
+}
+
+.boxgrid .image {
+    position: relative;
+}
+
+.boxgrid .text {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0;
+    margin:0;
+}
+
+.boxgrid p {
+    font-size: 10px;
+    clear: both;
+    color: #484848;
+    line-height: 14px;
+    text-align: justify;
+    letter-spacing: 0.5px;
+    margin: 0px 5px 5px 5px;
+}
+
+.boxgrid a, .boxgrid a:visited {
+    color: #5A5A5A;
+    text-decoration: none;
+    padding-right: 17px;
+}
+
+#martin .boxgrid h4 a {
+    background: none;
+}
+
+.boxgrid a:hover {
+    text-decoration: underline;
+}
+
+
+#martin #wrap_left {
+    width: 423px; 
+    height: 280px; 
+    float:left;
+}
+#martin #wrap_right {
+    width: 70px; 
+    height: 280px; 
+    float:left;
+}
+#martin .small {
+    width: 130px; 
+    height: 166px; 
+}
+#martin .small1 {
+    width: 127px; 
+    height: 82px; 
+}
+#martin .small1_1 {
+    width: 127px; 
+    height: 82px; 
+}
+.small2 {
+    width: 94px; 
+    height: 110px; 
+}
+.small3 {
+    width: 80px; 
+    height: 110px; 
+}
+.small4 {
+    width: 75px; 
+    height: 110px; 
+}
+.small5 {
+    width: 166px; 
+    height: 110px; 
+}
+.portrait {
+    width: 160px; 
+    height: 166px; 
+}
+img#img1{
+    width: 160px; 
+    height: 166px;
+}
+img#img2{
+    width: 130px; 
+    height: 166px;
+}
+img#img3{
+    width: 127px; 
+    height: 81px;
+}
+img#img3_1{
+    width: 127px; 
+    height: 81px;
+}
+img#img4{
+    width: 94px; 
+    height: 110px;
+}
+img#img5{
+    width: 80px; 
+    height: 110px;
+}
+img#img6{
+    width: 75px; 
+    height: 110px;
+}
+img#img7{
+    width: 166px; 
+    height: 110px;
+}
+img#img8{
+    width: 70px; 
+    height: 92px;
+}
+img#img9{
+    width: 70px; 
+    height: 90px;
+}
+img#img10{
+    width: 70px; 
+    height: 92px;
+}
+#martin .pano {
+    width: 70px; 
+    height: 90px; 
+}
+
+#martin .large {
+    width: 70px;
+    height: 92px;
+}
+#martin .large1 {
+    width: 70px;
+    height: 92px;
+}
+
+#martin .huge {
+    width: 322px;
+    height: 322px;
+}
+
+
+#martin p {
+    line-height: 16px;
+    margin: 2px 0 20px 0;
+}
+#martin h1,#martin h2,#martin h3,#martin h4,#martin h5 {
+    font-family: RooneyLightItalic, Georgia, Times New Roman, serif;
+}
+
+#martin h1 {
+    display: none;
+}
+#martin h2 {
+    color: #5A5A5A;
+    font-size: 18px;
+    letter-spacing: -1px;
+    line-height: 25px;
+    margin: 10px 10px 10px 24px;
+}
+
+#martin h3 {
+    font-size: 31px;
+    line-height: 30px;
+    letter-spacing: -4px;
+    color: #5A5A5A;
+}
+
+#martin h4 {
+    font-size: 14px;
+    letter-spacing:0px;
+    color: #5A5A5A;
+    margin-top: 16px;
+    line-height: 18px;
+}
+#martin h5 {
+    font-size:12px;
+    color: #acacb6;	
+    margin: 4px 5px;
+}
+#martin h6{
+    width: 230px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 22px;
+    margin-left: 5px;
+}
+
+#martin .moreinfo {
+    padding: 4px;
+    height:170px;
+}
+
+#martin .moreinfo hr {
+    margin-left:-4px;
+}
+
+#martin .moreinfo table {
+    width: 154px;
+    float: right;
+}
+
+#martin .moreinfo img {
+    margin: 0 2px 2px 0; 
+    border: 0px;
+}
+

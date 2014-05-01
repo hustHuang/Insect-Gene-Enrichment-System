@@ -1,0 +1,1321 @@
+Gene1_Name	Gene2_Name	Network	Type	Weight
+YMD8	CSE2	IREF-GRID	physical_interaction	0.0038
+YMD8	LEA1	IREF-GRID	physical_interaction	0.0057
+STI1	SSE1	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.075
+STI1	SSE1	IREF-GRID	physical_interaction	0.0063
+STI1	SSE1	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.085
+STI1	EOS1	IREF-GRID	physical_interaction	0.0068
+STI1	CSE2	IREF-GRID	physical_interaction	0.0036
+STI1	BEM4	IREF-GRID	physical_interaction	0.011
+STI1	HRD1	Krogan-Greenblatt-2006 A	physical_interaction	0.071
+STI1	HRD1	Krogan-Greenblatt-2006 B	physical_interaction	0.074
+STI1	HRD1	IREF-GRID	physical_interaction	0.011
+STI1	HRD1	IREF-MINT	physical_interaction	0.026
+STI1	HRD1	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.048
+STI1	HRD1	MINT_Physical interactions	physical_interaction	0.19
+STI1	YDJ1	IREF-GRID	physical_interaction	0.0061
+STI1	YDJ1	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.042
+SSE1	SIN3	IntAct_Physical interactions	physical_interaction	0.53
+SSE1	SIN3	IntAct_Physical interactions	physical_interaction	0.53
+SSE1	AIM44	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	DIA2	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	ELG1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	HST3	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	BRE5	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.0053
+SSE1	BRE5	Ossareh-Nazari-Dargemont-2010	physical_interaction	0.04
+SSE1	BRE5	IREF-GRID	physical_interaction	0.0012
+SSE1	CTF4	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	RTG1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	ARL3	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	YAR1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	MMS1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	LGE1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	CTF19	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	INP53	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	NEW1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	MDL2	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	MET16	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	TOP1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	THP3	Gong-Houry-2009 A	physical_interaction	0.085
+SSE1	THP3	Gong-Houry-2009 B	physical_interaction	0.088
+SSE1	THP3	IREF-GRID	physical_interaction	0.0062
+SSE1	THP3	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	THP3	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	MDM36	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	MCM16	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	MCM16	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	HAP5	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	CEX1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	KES1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	WHI2	IREF-GRID	physical_interaction	0.0031
+SSE1	WHI2	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	SNU66	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	PDE2	IREF-GRID	physical_interaction	0.0036
+SSE1	HAA1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	SFL1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	GET4	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	IRC15	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	TOM70	IntAct_Physical interactions	physical_interaction	0.53
+SSE1	TOM70	IntAct_Physical interactions	physical_interaction	0.53
+SSE1	AZF1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	MED1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	MSB1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	CIN2	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	VPS27	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	SGT2	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.065
+SSE1	SGT2	IREF-GRID	physical_interaction	0.0078
+SSE1	SGT2	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	POC4	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	CKB2	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	YTA6	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	HUT1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	HIR2	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	MET31	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	NTG2	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	IRA2	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.071
+SSE1	IRA2	IREF-GRID	physical_interaction	0.0019
+SSE1	PHO23	IREF-GRID	physical_interaction	0.0018
+SSE1	CIN1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	ATG5	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	UME1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	RAD1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	HRD1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	DMA2	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	VPS5	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	FPR1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	SWM2	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	PMS1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	INO4	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	MKT1	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.033
+SSE1	YDJ1	Gong-Houry-2009 A	physical_interaction	0.019
+SSE1	YDJ1	IREF-GRID	physical_interaction	0.003
+SSE1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	NUP133	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	SAM37	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	MMR1	IREF-GRID	physical_interaction	0.0041
+SSE1	RPS1A	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	CHS5	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	ELP6	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	DBP7	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	YET1	IntAct_Physical interactions	physical_interaction	0.35
+SSE1	SVL3	IntAct_Physical interactions	physical_interaction	0.53
+KAR3	EOS1	IREF-GRID	physical_interaction	0.0031
+KAR3	CHL1	Tong-Boone-2004	physical_interaction	0.011
+KAR3	CHL1	IREF-GRID	physical_interaction	0.0038
+KAR3	CHL1	IREF-MPACT	physical_interaction	0.012
+KAR3	DDC1	Tong-Boone-2004	physical_interaction	0.015
+KAR3	DDC1	IREF-GRID	physical_interaction	0.0038
+KAR3	DDC1	IREF-MPACT	physical_interaction	0.013
+KAR3	AIM44	IREF-GRID	physical_interaction	0.0031
+KAR3	DIA2	IREF-GRID	physical_interaction	0.0022
+KAR3	VIK1	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.17
+KAR3	VIK1	IREF-BIND	physical_interaction	0.17
+KAR3	VIK1	IREF-BIND-TRANSLATION	physical_interaction	0.16
+KAR3	VIK1	IREF-DIP	physical_interaction	0.16
+KAR3	VIK1	IREF-GRID	physical_interaction	0.0087
+KAR3	VIK1	IREF-INTACT	physical_interaction	0.12
+KAR3	VIK1	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.16
+KAR3	VIK1	Lee-Marcotte-2007 Protein interactions	physical_interaction	0.52
+KAR3	ELG1	IREF-GRID	physical_interaction	0.0038
+KAR3	ELG1	IREF-MPACT	physical_interaction	0.0099
+KAR3	ELG1	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.022
+KAR3	BUB3	Tong-Boone-2004	physical_interaction	0.027
+KAR3	BUB3	IREF-GRID	physical_interaction	0.0019
+KAR3	BUB3	IREF-MPACT	physical_interaction	0.022
+KAR3	CTF4	IREF-GRID	physical_interaction	0.0022
+KAR3	CTF19	Tong-Boone-2004	physical_interaction	0.031
+KAR3	CTF19	IREF-GRID	physical_interaction	0.0039
+KAR3	CTF19	IREF-MPACT	physical_interaction	0.014
+KAR3	SLK19	Tong-Boone-2004	physical_interaction	0.039
+KAR3	SLK19	IREF-GRID	physical_interaction	0.0065
+KAR3	SLK19	IREF-MPACT	physical_interaction	0.025
+KAR3	SLK19	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.12
+KAR3	MCM16	Tong-Boone-2004	physical_interaction	0.026
+KAR3	MCM16	IREF-GRID	physical_interaction	0.0053
+KAR3	MCM16	IREF-MPACT	physical_interaction	0.016
+KAR3	PDE2	IREF-GRID	physical_interaction	0.0034
+KAR3	IRC15	IREF-GRID	physical_interaction	0.008
+KAR3	RRD2	Tong-Boone-2004	physical_interaction	0.12
+KAR3	RRD2	IREF-GRID	physical_interaction	0.0086
+KAR3	RRD2	IREF-MPACT	physical_interaction	0.035
+KAR3	IRA2	IREF-GRID	physical_interaction	0.0017
+KAR3	YAF9	IREF-GRID	physical_interaction	0.0025
+KAR3	SAM37	IREF-GRID	physical_interaction	0.0038
+KAR3	DGK1	IREF-GRID	physical_interaction	0.0028
+KAR3	MID2	IREF-GRID	physical_interaction	0.0041
+EOS1	VIK1	IREF-GRID	physical_interaction	0.01
+EOS1	HST3	IREF-GRID	physical_interaction	0.0052
+EOS1	BUB3	IREF-GRID	physical_interaction	0.0022
+EOS1	BRE5	IREF-GRID	physical_interaction	0.0013
+EOS1	SHE4	IREF-GRID	physical_interaction	0.0034
+EOS1	BTS1	IREF-GRID	physical_interaction	0.0036
+EOS1	LGE1	IREF-GRID	physical_interaction	0.0021
+EOS1	THP3	IREF-GRID	physical_interaction	0.0067
+EOS1	WHI2	IREF-GRID	physical_interaction	0.0033
+EOS1	SFL1	IREF-GRID	physical_interaction	0.0064
+EOS1	HIR2	IREF-GRID	physical_interaction	0.0034
+EOS1	VPS5	IREF-GRID	physical_interaction	0.0055
+EOS1	GLO4	IREF-GRID	physical_interaction	0.013
+EOS1	CKA2	IREF-GRID	physical_interaction	0.0034
+EOS1	ALG8	IREF-GRID	physical_interaction	0.0058
+EOS1	SPC2	IREF-GRID	physical_interaction	0.0088
+EOS1	MMR1	IREF-GRID	physical_interaction	0.0045
+SIN3	CSE2	IREF-GRID	physical_interaction	0.00098
+SIN3	AIM44	IREF-GRID	physical_interaction	0.0018
+SIN3	ELG1	IREF-GRID	physical_interaction	0.0023
+SIN3	HST3	IREF-GRID	physical_interaction	0.0027
+SIN3	BUB3	IREF-GRID	physical_interaction	0.0011
+SIN3	BRE5	IREF-GRID	physical_interaction	0.00065
+SIN3	COX10	IREF-GRID	physical_interaction	0.0022
+SIN3	CLN2	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.022
+SIN3	CLN2	IREF-GRID	physical_interaction	0.002
+SIN3	CLN2	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.02
+SIN3	CLN2	Lee-Marcotte-2007 Protein interactions	physical_interaction	0.017
+SIN3	LGE1	IREF-GRID	physical_interaction	0.0011
+SIN3	SLK19	IREF-GRID	physical_interaction	0.0039
+SIN3	RBL2	IREF-GRID	physical_interaction	0.0043
+SIN3	RTC6	IREF-GRID	physical_interaction	0.0027
+SIN3	HAP5	IREF-GRID	physical_interaction	0.0021
+SIN3	WHI2	IREF-GRID	physical_interaction	0.0017
+SIN3	LEO1	IREF-GRID	physical_interaction	0.0019
+SIN3	MSS18	IREF-GRID	physical_interaction	0.0032
+SIN3	ELP3	IREF-GRID	physical_interaction	0.0016
+SIN3	CAT5	IREF-GRID	physical_interaction	0.0033
+SIN3	TOM70	IREF-GRID	physical_interaction	0.002
+SIN3	MED1	IREF-GRID	physical_interaction	0.0015
+SIN3	VPS27	IREF-GRID	physical_interaction	0.0015
+SIN3	CKB2	IREF-GRID	physical_interaction	0.0016
+SIN3	SUR1	IREF-GRID	physical_interaction	0.002
+SIN3	HIR2	IREF-GRID	physical_interaction	0.0018
+SIN3	IRA2	IREF-GRID	physical_interaction	0.001
+SIN3	PHO23	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.023
+SIN3	PHO23	Gavin-Superti-Furga-2002 A	physical_interaction	0.12
+SIN3	PHO23	Gavin-Superti-Furga-2006 A	physical_interaction	0.092
+SIN3	PHO23	Krogan-Greenblatt-2006 A	physical_interaction	0.07
+SIN3	PHO23	Collins-Krogan-2007 A	physical_interaction	0.089
+SIN3	PHO23	Gavin-Superti-Furga-2002 B	physical_interaction	0.12
+SIN3	PHO23	Krogan-Greenblatt-2006 B	physical_interaction	0.085
+SIN3	PHO23	IREF-DIP	physical_interaction	0.063
+SIN3	PHO23	IREF-GRID	physical_interaction	0.00097
+SIN3	PHO23	IREF-MINT	physical_interaction	0.044
+SIN3	PHO23	Lee-Marcotte-2007 Protein interactions	physical_interaction	0.05
+SIN3	PHO23	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.052
+SIN3	PHO23	MINT_Physical interactions	physical_interaction	0.417
+SIN3	PHO23	IntAct_Physical interactions	physical_interaction	0.79
+SIN3	PHO23	IntAct_Physical interactions	physical_interaction	0.79
+SIN3	PHO23	MINT_Physical interactions	physical_interaction	0.417
+SIN3	PHO23	MINT_Physical interactions	physical_interaction	0.417
+SIN3	PHO23	MINT_Physical interactions	physical_interaction	0.417
+SIN3	PHO23	MINT_Physical interactions	physical_interaction	0.417
+SIN3	PHO23	MINT_Physical interactions	physical_interaction	0.417
+SIN3	PHO23	MINT_Physical interactions	physical_interaction	0.417
+SIN3	UME1	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.031
+SIN3	UME1	Gavin-Superti-Furga-2002 A	physical_interaction	0.092
+SIN3	UME1	Ho-Tyers-2002 A	physical_interaction	0.24
+SIN3	UME1	Gavin-Superti-Furga-2006 A	physical_interaction	0.048
+SIN3	UME1	Krogan-Greenblatt-2006 A	physical_interaction	0.072
+SIN3	UME1	Collins-Krogan-2007 A	physical_interaction	0.089
+SIN3	UME1	Gavin-Superti-Furga-2002 B	physical_interaction	0.091
+SIN3	UME1	Ho-Tyers-2002 B	physical_interaction	0.23
+SIN3	UME1	IREF-DIP	physical_interaction	0.047
+SIN3	UME1	IREF-GRID	physical_interaction	0.0031
+SIN3	UME1	IREF-MINT	physical_interaction	0.035
+SIN3	UME1	Lee-Marcotte-2007 Protein interactions	physical_interaction	0.042
+SIN3	UME1	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.051
+SIN3	UME1	IntAct_Physical interactions	physical_interaction	0.79
+SIN3	UME1	IntAct_Physical interactions	physical_interaction	0.79
+SIN3	UME1	MINT_Physical interactions	physical_interaction	0.528
+SIN3	UME1	MINT_Physical interactions	physical_interaction	0.528
+SIN3	UME1	MINT_Physical interactions	physical_interaction	0.528
+SIN3	UME1	MINT_Physical interactions	physical_interaction	0.528
+SIN3	UME1	MINT_Physical interactions	physical_interaction	0.528
+SIN3	UME1	MINT_Physical interactions	physical_interaction	0.528
+SIN3	UME1	MINT_Physical interactions	physical_interaction	0.528
+SIN3	UME1	MINT_Physical interactions	physical_interaction	0.528
+SIN3	UME1	MINT_Physical interactions	physical_interaction	0.528
+SIN3	UME1	IntAct_Physical interactions	physical_interaction	0.79
+SIN3	UME1	IntAct_Physical interactions	physical_interaction	0.79
+SIN3	UME1	IntAct_Physical interactions	physical_interaction	0.79
+SIN3	UME1	IntAct_Physical interactions	physical_interaction	0.79
+SIN3	UME1	MINT_Physical interactions	physical_interaction	0.528
+SIN3	UME1	MINT_Physical interactions	physical_interaction	0.528
+SIN3	UME1	MINT_Physical interactions	physical_interaction	0.528
+SIN3	UME1	MINT_Physical interactions	physical_interaction	0.528
+SIN3	UME1	MINT_Physical interactions	physical_interaction	0.528
+SIN3	UME1	MINT_Physical interactions	physical_interaction	0.528
+SIN3	PMS1	IREF-GRID	physical_interaction	0.0059
+SIN3	CKA2	Gavin-Superti-Furga-2002 A	physical_interaction	0.052
+SIN3	CKA2	Gavin-Superti-Furga-2006 A	physical_interaction	0.048
+SIN3	CKA2	Gavin-Superti-Furga-2002 B	physical_interaction	0.056
+SIN3	CKA2	IREF-DIP	physical_interaction	0.011
+SIN3	CKA2	IREF-GRID	physical_interaction	0.0017
+SIN3	CKA2	IREF-MINT	physical_interaction	0.014
+SIN3	CKA2	IntAct_Physical interactions	physical_interaction	0.53
+SIN3	CKA2	MINT_Physical interactions	physical_interaction	0.19
+SIN3	YAF9	IREF-GRID	physical_interaction	0.0015
+SIN3	INO4	IREF-GRID	physical_interaction	0.0017
+SIN3	ALG5	IREF-GRID	physical_interaction	0.0023
+SIN3	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+SIN3	NUP133	IREF-GRID	physical_interaction	0.0014
+SIN3	SAM37	IREF-GRID	physical_interaction	0.0023
+SIN3	DGK1	IREF-GRID	physical_interaction	0.0017
+SIN3	CHS5	IREF-GRID	physical_interaction	0.0017
+SIN3	ELP6	IREF-GRID	physical_interaction	0.002
+SIN3	PFA4	IREF-GRID	physical_interaction	0.0067
+SIN3	RIM20	IREF-GRID	physical_interaction	0.0023
+CYT1	RUD3	IREF-GRID	physical_interaction	0.0045
+CYT1	KES1	IREF-GRID	physical_interaction	0.0049
+CYT1	PDE2	IREF-GRID	physical_interaction	0.0046
+CYT1	IRA2	IREF-GRID	physical_interaction	0.0024
+CYT1	PHO23	IREF-GRID	physical_interaction	0.0022
+CYT1	YNR021W	IREF-GRID	physical_interaction	0.021
+CSE2	DDC1	IREF-GRID	physical_interaction	0.0024
+CSE2	DIA2	IREF-GRID	physical_interaction	0.0014
+CSE2	HST3	IREF-GRID	physical_interaction	0.0028
+CSE2	BRE5	IREF-GRID	physical_interaction	0.00067
+CSE2	MDM12	IREF-GRID	physical_interaction	0.0023
+CSE2	SHE4	IREF-GRID	physical_interaction	0.0018
+CSE2	BEM4	IREF-GRID	physical_interaction	0.003
+CSE2	LGE1	IREF-GRID	physical_interaction	0.0011
+CSE2	CTF19	IREF-GRID	physical_interaction	0.0025
+CSE2	NEW1	IREF-GRID	physical_interaction	0.0018
+CSE2	MRN1	IREF-GRID	physical_interaction	0.0086
+CSE2	THP3	IREF-GRID	physical_interaction	0.0036
+CSE2	BRR1	IREF-GRID	physical_interaction	0.002
+CSE2	LEO1	IREF-GRID	physical_interaction	0.0019
+CSE2	RFM1	IREF-GRID	physical_interaction	0.01
+CSE2	MED1	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.044
+CSE2	MED1	Gavin-Superti-Furga-2006 A	physical_interaction	0.099
+CSE2	MED1	Krogan-Greenblatt-2006 A	physical_interaction	0.06
+CSE2	MED1	Collins-Krogan-2007 A	physical_interaction	0.039
+CSE2	MED1	Krogan-Greenblatt-2006 B	physical_interaction	0.07
+CSE2	MED1	IREF-BIND	physical_interaction	0.32
+CSE2	MED1	IREF-BIND-TRANSLATION	physical_interaction	0.31
+CSE2	MED1	IREF-GRID	physical_interaction	0.0015
+CSE2	MED1	IREF-MINT	physical_interaction	0.058
+CSE2	MED1	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.065
+CSE2	MED1	Lee-Marcotte-2007 Protein interactions	physical_interaction	0.059
+CSE2	MED1	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.038
+CSE2	MED1	MINT_Physical interactions	physical_interaction	0.28
+CSE2	MED1	IntAct_Physical interactions	physical_interaction	0.35
+CSE2	MED1	MINT_Physical interactions	physical_interaction	0.28
+CSE2	CKB2	IREF-GRID	physical_interaction	0.0017
+CSE2	HIR2	IREF-GRID	physical_interaction	0.0018
+CSE2	YPL068C	IREF-GRID	physical_interaction	0.011
+CSE2	IRA2	IREF-GRID	physical_interaction	0.0011
+CSE2	PHO23	IREF-GRID	physical_interaction	0.001
+CSE2	VTS1	IREF-GRID	physical_interaction	0.011
+CSE2	YAF9	IREF-GRID	physical_interaction	0.0015
+CSE2	INO4	IREF-GRID	physical_interaction	0.0018
+CSE2	YKL069W	IREF-GRID	physical_interaction	0.0028
+CSE2	SAM37	IREF-GRID	physical_interaction	0.0024
+CSE2	DGK1	IREF-GRID	physical_interaction	0.0017
+CSE2	RIM20	IREF-GRID	physical_interaction	0.0024
+MAK3	AIM44	IREF-GRID	physical_interaction	0.01
+MAK3	PHO23	IREF-GRID	physical_interaction	0.0053
+CHL1	ELG1	Tong-Boone-2004	physical_interaction	0.063
+CHL1	ELG1	IREF-GRID	physical_interaction	0.0055
+CHL1	ELG1	IREF-MPACT	physical_interaction	0.025
+CHL1	ELG1	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.041
+CHL1	BUB3	IREF-GRID	physical_interaction	0.0027
+CHL1	CLB2	Tong-Boone-2004	physical_interaction	0.08
+CHL1	CLB2	IREF-GRID	physical_interaction	0.005
+CHL1	CLB2	IREF-MPACT	physical_interaction	0.031
+CHL1	CTF19	Tong-Boone-2004	physical_interaction	0.069
+CHL1	CTF19	IREF-GRID	physical_interaction	0.0057
+CHL1	CTF19	IREF-MPACT	physical_interaction	0.036
+CHL1	SLK19	IREF-GRID	physical_interaction	0.0095
+CHL1	MCM16	Tong-Boone-2004	physical_interaction	0.059
+CHL1	MCM16	IREF-GRID	physical_interaction	0.0077
+CHL1	MCM16	IREF-MPACT	physical_interaction	0.042
+CHL1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+DDC1	RAD17	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.16
+DDC1	RAD17	Uetz-Rothberg-2000	physical_interaction	0.61
+DDC1	RAD17	IREF-BIND	physical_interaction	0.43
+DDC1	RAD17	IREF-BIND-TRANSLATION	physical_interaction	0.43
+DDC1	RAD17	IREF-DIP	physical_interaction	0.12
+DDC1	RAD17	IREF-GRID	physical_interaction	0.0079
+DDC1	RAD17	IREF-INTACT	physical_interaction	0.15
+DDC1	RAD17	IREF-MINT	physical_interaction	0.15
+DDC1	RAD17	IREF-MPACT	physical_interaction	0.068
+DDC1	RAD17	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.096
+DDC1	RAD17	Lee-Marcotte-2007 Protein interactions	physical_interaction	0.22
+DDC1	RAD17	IntAct_Physical interactions	physical_interaction	0.78
+DDC1	RAD17	MINT_Physical interactions	physical_interaction	0.28
+DDC1	RAD17	IntAct_Physical interactions	physical_interaction	0.78
+DDC1	RAD17	IntAct_Physical interactions	physical_interaction	0.78
+DDC1	RAD17	IntAct_Physical interactions	physical_interaction	0.78
+DDC1	RAD17	IntAct_Physical interactions	physical_interaction	0.78
+DDC1	RAD17	IntAct_Physical interactions	physical_interaction	0.78
+DDC1	RAD17	IntAct_Physical interactions	physical_interaction	0.78
+DDC1	DIA2	IREF-GRID	physical_interaction	0.0032
+DDC1	ELG1	IREF-GRID	physical_interaction	0.0055
+DDC1	ELG1	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.03
+DDC1	COQ2	IREF-GRID	physical_interaction	0.0086
+DDC1	CTF4	Tong-Boone-2004	physical_interaction	0.011
+DDC1	CTF4	IREF-GRID	physical_interaction	0.0033
+DDC1	CTF4	IREF-MPACT	physical_interaction	0.011
+DDC1	YME1	Tong-Boone-2004	physical_interaction	0.3
+DDC1	YME1	IREF-GRID	physical_interaction	0.007
+DDC1	YME1	IREF-MPACT	physical_interaction	0.079
+DDC1	INP53	IREF-GRID	physical_interaction	0.0078
+DDC1	HMI1	IREF-GRID	physical_interaction	0.0076
+DDC1	HAP5	IREF-GRID	physical_interaction	0.0052
+DDC1	PDE2	Tarassov-Michnick-2008 B	physical_interaction	0.16
+DDC1	PDE2	IREF-INTACT	physical_interaction	0.068
+DDC1	MED1	IREF-GRID	physical_interaction	0.0036
+DDC1	LAT1	Ho-Tyers-2002 B	physical_interaction	0.051
+DDC1	LAT1	IREF-DIP	physical_interaction	0.038
+DDC1	RAD1	IREF-GRID	physical_interaction	0.0048
+AIM44	DIA2	IREF-GRID	physical_interaction	0.0026
+AIM44	NCS2	IREF-GRID	physical_interaction	0.009
+AIM44	HMI1	IREF-GRID	physical_interaction	0.0061
+AIM44	MET16	IREF-GRID	physical_interaction	0.016
+AIM44	APM1	IREF-GRID	physical_interaction	0.0099
+AIM44	CYB5	IREF-GRID	physical_interaction	0.011
+AIM44	MET31	IREF-GRID	physical_interaction	0.014
+AIM44	ZRG17	IREF-GRID	physical_interaction	0.016
+AIM44	FPR1	IREF-GRID	physical_interaction	0.005
+AIM44	ELP6	IREF-GRID	physical_interaction	0.004
+AIM44	MID2	IREF-GRID	physical_interaction	0.0049
+RAD17	DIA2	IREF-GRID	physical_interaction	0.0045
+RAD17	DIA2	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.11
+RAD17	ELG1	IREF-GRID	physical_interaction	0.0077
+RAD17	ELG1	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.04
+RAD17	RAD1	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.19
+RAD17	RAD1	IREF-GRID	physical_interaction	0.0068
+RAD17	RAD1	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.19
+RAD17	RAD1	Lee-Marcotte-2007 Protein interactions	physical_interaction	0.28
+DIA2	HST3	IREF-GRID	physical_interaction	0.0037
+DIA2	BUB3	IREF-GRID	physical_interaction	0.0016
+DIA2	CTF4	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.091
+DIA2	CTF4	Ho-Tyers-2002 A	physical_interaction	0.11
+DIA2	CTF4	Ho-Tyers-2002 B	physical_interaction	0.11
+DIA2	CTF4	IREF-DIP	physical_interaction	0.055
+DIA2	CTF4	IREF-GRID	physical_interaction	0.0019
+DIA2	CTF4	IREF-MINT	physical_interaction	0.046
+DIA2	CTF4	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.12
+DIA2	CTF4	MINT_Physical interactions	physical_interaction	0.635
+DIA2	CTF4	MINT_Physical interactions	physical_interaction	0.635
+DIA2	CTF4	MINT_Physical interactions	physical_interaction	0.635
+DIA2	CTF4	MINT_Physical interactions	physical_interaction	0.635
+DIA2	MMS1	IREF-GRID	physical_interaction	0.0039
+DIA2	LGE1	IREF-GRID	physical_interaction	0.0015
+DIA2	CTF19	IREF-GRID	physical_interaction	0.0033
+DIA2	TCO89	IREF-GRID	physical_interaction	0.0031
+DIA2	LEA1	IREF-GRID	physical_interaction	0.0021
+DIA2	IRC15	IREF-GRID	physical_interaction	0.0067
+DIA2	RRD2	IREF-GRID	physical_interaction	0.0072
+DIA2	CKB2	IREF-GRID	physical_interaction	0.0022
+DIA2	HIR2	IREF-GRID	physical_interaction	0.0025
+DIA2	TIP41	IREF-GRID	physical_interaction	0.0099
+DIA2	PMS1	IREF-GRID	physical_interaction	0.0082
+DIA2	CKA2	IREF-GRID	physical_interaction	0.0024
+DIA2	YAF9	IREF-GRID	physical_interaction	0.0021
+DIA2	ALG8	Tong-Boone-2004	physical_interaction	0.24
+DIA2	ALG8	IREF-GRID	physical_interaction	0.0042
+DIA2	ALG8	IREF-MPACT	physical_interaction	0.29
+DIA2	MKT1	IREF-GRID	physical_interaction	0.0056
+DIA2	YDJ1	Ho-Tyers-2002 B	physical_interaction	0.0062
+DIA2	YDJ1	IREF-DIP	physical_interaction	0.0081
+DIA2	YDJ1	IREF-GRID	physical_interaction	0.0023
+DIA2	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+DIA2	YMR166C	IREF-GRID	physical_interaction	0.012
+VIK1	BUB3	IREF-GRID	physical_interaction	0.0063
+VIK1	CTF4	Tong-Boone-2004	physical_interaction	0.036
+VIK1	CTF4	IREF-GRID	physical_interaction	0.0074
+VIK1	CTF4	IREF-MPACT	physical_interaction	0.021
+VIK1	HMI1	IREF-GRID	physical_interaction	0.017
+VIK1	HAP5	IREF-GRID	physical_interaction	0.012
+VIK1	TCO89	IREF-GRID	physical_interaction	0.012
+VIK1	YAF9	IREF-GRID	physical_interaction	0.0082
+VIK1	SWS2	IREF-GRID	physical_interaction	0.014
+VIK1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+ELG1	BUB3	IREF-GRID	physical_interaction	0.0027
+ELG1	BRE5	IREF-GRID	physical_interaction	0.0015
+ELG1	BRE5	IREF-MPACT	physical_interaction	0.042
+ELG1	BRE5	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.065
+ELG1	MDM12	IREF-GRID	physical_interaction	0.0054
+ELG1	CTF4	Tong-Boone-2004	physical_interaction	0.022
+ELG1	CTF4	IREF-GRID	physical_interaction	0.0032
+ELG1	CTF4	IREF-MPACT	physical_interaction	0.0083
+ELG1	CTF4	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.044
+ELG1	RAD1	IREF-GRID	physical_interaction	0.0047
+ELG1	YAF9	IREF-GRID	physical_interaction	0.0035
+ELG1	NUP133	IREF-GRID	physical_interaction	0.0034
+OCA1	RUD3	IREF-GRID	physical_interaction	0.0062
+OCA1	ISR1	IREF-GRID	physical_interaction	0.017
+OCA1	TOP1	Ito-Sakaki-2001	physical_interaction	0.13
+OCA1	TOP1	IREF-BIND	physical_interaction	0.12
+OCA1	TOP1	IREF-BIND-TRANSLATION	physical_interaction	0.12
+OCA1	TOP1	IREF-DIP	physical_interaction	0.11
+OCA1	TOP1	IREF-INTACT	physical_interaction	0.18
+OCA1	TOP1	IREF-MINT	physical_interaction	0.077
+OCA1	TOP1	IREF-MPACT	physical_interaction	0.045
+OCA1	TOP1	IntAct_Physical interactions	physical_interaction	0.37
+OCA1	TOP1	IntAct_Physical interactions	physical_interaction	0.37
+OCA1	TOP1	MINT_Physical interactions	physical_interaction	0.28
+OCA1	TCO89	IREF-GRID	physical_interaction	0.0069
+OCA1	RRD2	IREF-GRID	physical_interaction	0.016
+OCA1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+HST3	BRE5	IREF-GRID	physical_interaction	0.0018
+HST3	CLB2	IREF-GRID	physical_interaction	0.0058
+HST3	CTF4	IREF-GRID	physical_interaction	0.0037
+HST3	MMS1	IREF-GRID	physical_interaction	0.0078
+HST3	MNE1	IREF-GRID	physical_interaction	0.0083
+HST3	YOR082C	Tong-Boone-2004	physical_interaction	0.56
+HST3	YOR082C	IREF-MPACT	physical_interaction	0.24
+HST3	TOP1	IREF-GRID	physical_interaction	0.0045
+HST3	MED1	IREF-GRID	physical_interaction	0.0042
+HST3	CKA2	IREF-GRID	physical_interaction	0.0049
+HST3	YAF9	IREF-GRID	physical_interaction	0.0042
+HST3	DBP7	IREF-GRID	physical_interaction	0.0079
+BUB3	TGS1	IREF-GRID	physical_interaction	0.0025
+BUB3	BRE5	IREF-GRID	physical_interaction	0.00078
+BUB3	MDM12	IREF-GRID	physical_interaction	0.0027
+BUB3	CTF4	Tong-Boone-2004	physical_interaction	0.021
+BUB3	CTF4	IREF-GRID	physical_interaction	0.0016
+BUB3	CTF4	IREF-MPACT	physical_interaction	0.019
+BUB3	MMS1	IREF-GRID	physical_interaction	0.0033
+BUB3	LGE1	IREF-GRID	physical_interaction	0.0013
+BUB3	CTF19	IREF-GRID	physical_interaction	0.0028
+BUB3	CTF19	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.087
+BUB3	SLK19	IREF-GRID	physical_interaction	0.0047
+BUB3	TOP1	IREF-GRID	physical_interaction	0.0019
+BUB3	RBL2	Tong-Boone-2004	physical_interaction	0.14
+BUB3	RBL2	IREF-GRID	physical_interaction	0.0052
+BUB3	RBL2	IREF-MPACT	physical_interaction	0.088
+BUB3	ADH1	IREF-GRID	physical_interaction	0.004
+BUB3	MCM16	IREF-GRID	physical_interaction	0.0038
+BUB3	HAP5	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.069
+BUB3	LEO1	IREF-GRID	physical_interaction	0.0022
+BUB3	MCT1	IREF-GRID	physical_interaction	0.0051
+BUB3	IRC15	IREF-GRID	physical_interaction	0.0058
+BUB3	CIN2	IREF-GRID	physical_interaction	0.0039
+BUB3	POC4	IREF-GRID	physical_interaction	0.0056
+BUB3	CIN1	IREF-GRID	physical_interaction	0.0035
+BUB3	CKA2	IREF-GRID	physical_interaction	0.0021
+BUB3	YAF9	IREF-GRID	physical_interaction	0.0018
+BUB3	YDJ1	IREF-GRID	physical_interaction	0.002
+BUB3	NUP188	IREF-GRID	physical_interaction	0.0022
+BUB3	SAM37	IREF-GRID	physical_interaction	0.0028
+TGS1	PNT1	IREF-GRID	physical_interaction	0.0092
+TGS1	BRR1	IREF-GRID	physical_interaction	0.0042
+TGS1	SNU66	IREF-GRID	physical_interaction	0.0054
+TGS1	LEA1	IREF-GRID	physical_interaction	0.0032
+TGS1	CKB2	IREF-GRID	physical_interaction	0.0035
+TGS1	HIR2	IREF-GRID	physical_interaction	0.0038
+TGS1	PHO23	IREF-GRID	physical_interaction	0.0021
+TGS1	VPS5	IREF-GRID	physical_interaction	0.0061
+TGS1	SWM2	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.75
+TGS1	SWM2	Yu-Vidal-2008 A	physical_interaction	0.8
+TGS1	SWM2	Uetz-Rothberg-2000	physical_interaction	1
+TGS1	SWM2	Yu-Vidal-2008 B	physical_interaction	0.8
+TGS1	SWM2	IREF-BIND	physical_interaction	0.83
+TGS1	SWM2	IREF-BIND-TRANSLATION	physical_interaction	0.83
+TGS1	SWM2	IREF-DIP	physical_interaction	0.86
+TGS1	SWM2	IREF-GRID	physical_interaction	0.011
+TGS1	SWM2	IREF-INTACT	physical_interaction	0.69
+TGS1	SWM2	IREF-MINT	physical_interaction	0.76
+TGS1	SWM2	IREF-MPACT	physical_interaction	0.82
+TGS1	SWM2	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.58
+TGS1	SWM2	Lee-Marcotte-2007 Y2H	physical_interaction	1
+TGS1	SWM2	IntAct_Physical interactions	physical_interaction	0.55
+TGS1	SWM2	IntAct_Physical interactions	physical_interaction	0.55
+BRE5	CTF4	Tong-Boone-2004	physical_interaction	0.021
+BRE5	CTF4	IREF-GRID	physical_interaction	0.00091
+BRE5	CTF4	IREF-MPACT	physical_interaction	0.017
+BRE5	BTS1	IREF-GRID	physical_interaction	0.0013
+BRE5	LGE1	IREF-GRID	physical_interaction	0.00075
+BRE5	INP53	IREF-GRID	physical_interaction	0.0022
+BRE5	NEW1	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.016
+BRE5	NEW1	IREF-GRID	physical_interaction	0.0012
+BRE5	NEW1	MINT_Physical interactions	physical_interaction	0.28
+BRE5	TOP1	Tong-Boone-2004	physical_interaction	0.058
+BRE5	TOP1	IREF-GRID	physical_interaction	0.0011
+BRE5	TOP1	IREF-MPACT	physical_interaction	0.036
+BRE5	MRN1	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.098
+BRE5	MRN1	Ossareh-Nazari-Dargemont-2010	physical_interaction	0.066
+BRE5	MRN1	IREF-GRID	physical_interaction	0.0057
+BRE5	ADH1	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.0054
+BRE5	ADH1	Ossareh-Nazari-Dargemont-2010	physical_interaction	0.04
+BRE5	ADH1	IREF-GRID	physical_interaction	0.0023
+BRE5	ADH1	MINT_Physical interactions	physical_interaction	0.28
+BRE5	CEX1	IREF-GRID	physical_interaction	0.0069
+BRE5	LEO1	IREF-GRID	physical_interaction	0.0013
+BRE5	ELP3	IREF-GRID	physical_interaction	0.0011
+BRE5	PDE2	IREF-GRID	physical_interaction	0.0014
+BRE5	MCT1	IREF-GRID	physical_interaction	0.0029
+BRE5	CKB2	IREF-GRID	physical_interaction	0.0011
+BRE5	IRA2	IREF-GRID	physical_interaction	0.00071
+BRE5	VPS5	IREF-GRID	physical_interaction	0.0019
+BRE5	TIP41	IREF-GRID	physical_interaction	0.0048
+BRE5	TPM1	IREF-GRID	physical_interaction	0.0016
+BRE5	YAF9	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.0037
+BRE5	YAF9	IREF-GRID	physical_interaction	0.001
+BRE5	SPE2	IREF-GRID	physical_interaction	0.0035
+BRE5	NUP188	IREF-GRID	physical_interaction	0.0012
+BRE5	YKL069W	IREF-GRID	physical_interaction	0.0018
+BRE5	SPC2	IREF-GRID	physical_interaction	0.0031
+BRE5	UBX4	IREF-GRID	physical_interaction	0.0036
+BRE5	RPS1A	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.0068
+BRE5	RPS1A	Ossareh-Nazari-Dargemont-2010	physical_interaction	0.066
+BRE5	RPS1A	IREF-GRID	physical_interaction	0.0021
+BRE5	RPS1A	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.021
+BRE5	RPS1A	MINT_Physical interactions	physical_interaction	0.28
+BRE5	ELP6	IREF-GRID	physical_interaction	0.0014
+BRE5	DBP7	IREF-GRID	physical_interaction	0.0019
+CLB2	CTF4	Tong-Boone-2004	physical_interaction	0.027
+CLB2	CTF4	IREF-GRID	physical_interaction	0.0029
+CLB2	CTF4	IREF-MPACT	physical_interaction	0.01
+CLB2	CLN2	IREF-GRID	physical_interaction	0.0043
+CLB2	MMS1	IREF-GRID	physical_interaction	0.006
+CLB2	SLK19	IREF-GRID	physical_interaction	0.0086
+CLB2	FPR1	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.038
+CLB2	FPR1	Uetz-Rothberg-2000	physical_interaction	0.15
+CLB2	FPR1	IREF-BIND	physical_interaction	0.072
+CLB2	FPR1	IREF-BIND-TRANSLATION	physical_interaction	0.085
+CLB2	FPR1	IREF-DIP	physical_interaction	0.014
+CLB2	FPR1	IREF-GRID	physical_interaction	0.0056
+CLB2	FPR1	IREF-INTACT	physical_interaction	0.077
+CLB2	FPR1	IREF-MINT	physical_interaction	0.032
+CLB2	FPR1	IREF-MPACT	physical_interaction	0.08
+CLB2	FPR1	Lee-Marcotte-2007 Y2H	physical_interaction	0.15
+CLB2	FPR1	IntAct_Physical interactions	physical_interaction	0.37
+CLB2	FPR1	IntAct_Physical interactions	physical_interaction	0.37
+CLB2	FPR1	MINT_Physical interactions	physical_interaction	0.28
+CLB2	YDJ1	Ho-Tyers-2002 B	physical_interaction	0.04
+CLB2	YDJ1	IREF-DIP	physical_interaction	0.011
+ATG3	THP3	IREF-GRID	physical_interaction	0.013
+ATG3	VPS5	IREF-GRID	physical_interaction	0.011
+ATG3	NUP133	IREF-GRID	physical_interaction	0.0054
+RUD3	SHE4	IREF-GRID	physical_interaction	0.0037
+RUD3	CLN2	IREF-GRID	physical_interaction	0.0041
+RUD3	BTS1	IREF-GRID	physical_interaction	0.0038
+RUD3	INP53	IREF-GRID	physical_interaction	0.0067
+RUD3	NEW1	IREF-GRID	physical_interaction	0.0036
+RUD3	THP3	IREF-GRID	physical_interaction	0.0072
+RUD3	MDY2	IREF-GRID	physical_interaction	0.0089
+RUD3	LCL1	IREF-GRID	physical_interaction	0.02
+RUD3	LEO1	IREF-GRID	physical_interaction	0.0039
+RUD3	LEA1	IREF-GRID	physical_interaction	0.0031
+RUD3	SGT2	IREF-GRID	physical_interaction	0.009
+RUD3	SUR1	IREF-GRID	physical_interaction	0.0042
+RUD3	YDJ1	IREF-GRID	physical_interaction	0.0034
+RUD3	MEH1	IREF-GRID	physical_interaction	0.0057
+COQ2	MDL2	IREF-GRID	physical_interaction	0.017
+COQ2	ADH1	IntAct_Physical interactions	physical_interaction	0.35
+COQ2	PDE2	IREF-GRID	physical_interaction	0.0075
+COQ2	IRA2	IREF-GRID	physical_interaction	0.0039
+COQ2	RAD1	IREF-GRID	physical_interaction	0.0074
+COQ2	CHS5	Tong-Boone-2004	physical_interaction	0.17
+COQ2	CHS5	IREF-GRID	physical_interaction	0.0063
+COQ2	CHS5	IREF-MPACT	physical_interaction	0.056
+MDM12	CTF4	IREF-GRID	physical_interaction	0.0032
+MDM12	LGE1	IREF-GRID	physical_interaction	0.0026
+MDM12	YOR246C	IREF-GRID	physical_interaction	0.0092
+MDM12	PDE2	IREF-GRID	physical_interaction	0.0048
+MDM12	TOM70	IREF-GRID	physical_interaction	0.0047
+MDM12	PHO23	IREF-GRID	physical_interaction	0.0023
+MDM12	VAM3	IREF-GRID	physical_interaction	0.0052
+MDM12	NUP133	IREF-GRID	physical_interaction	0.0034
+MDM12	SAM37	IREF-GRID	physical_interaction	0.0054
+MDM12	SAM37	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.2
+MDM12	CHS5	Tong-Boone-2004	physical_interaction	0.066
+MDM12	CHS5	IREF-GRID	physical_interaction	0.004
+MDM12	CHS5	IREF-MPACT	physical_interaction	0.053
+MDM12	ELP6	IREF-GRID	physical_interaction	0.0048
+CTF4	MMS1	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.1
+CTF4	MMS1	IREF-GRID	physical_interaction	0.0039
+CTF4	LGE1	Tong-Boone-2004	physical_interaction	0.024
+CTF4	LGE1	IREF-GRID	physical_interaction	0.0015
+CTF4	LGE1	IREF-MPACT	physical_interaction	0.024
+CTF4	CTF19	Tong-Boone-2004	physical_interaction	0.024
+CTF4	CTF19	IREF-GRID	physical_interaction	0.0033
+CTF4	CTF19	IREF-MPACT	physical_interaction	0.012
+CTF4	SLK19	Tong-Boone-2004	physical_interaction	0.03
+CTF4	SLK19	IREF-GRID	physical_interaction	0.0055
+CTF4	SLK19	IREF-MPACT	physical_interaction	0.021
+CTF4	TOP1	IREF-GRID	physical_interaction	0.0022
+CTF4	MCM16	Tong-Boone-2004	physical_interaction	0.02
+CTF4	MCM16	IREF-GRID	physical_interaction	0.0045
+CTF4	MCM16	IREF-MPACT	physical_interaction	0.014
+CTF4	IRC15	Tong-Boone-2004	physical_interaction	0.034
+CTF4	IRC15	IREF-GRID	physical_interaction	0.0068
+CTF4	IRC15	IREF-MPACT	physical_interaction	0.034
+CTF4	CIN2	IREF-GRID	physical_interaction	0.0046
+CTF4	POC4	Tong-Boone-2004	physical_interaction	0.071
+CTF4	POC4	IREF-GRID	physical_interaction	0.0065
+CTF4	POC4	IREF-MPACT	physical_interaction	0.077
+CTF4	SUR1	Tong-Boone-2004	physical_interaction	0.053
+CTF4	SUR1	IREF-GRID	physical_interaction	0.0029
+CTF4	SUR1	IREF-MPACT	physical_interaction	0.021
+CTF4	PHO23	IREF-GRID	physical_interaction	0.0014
+CTF4	CIN1	Tong-Boone-2004	physical_interaction	0.0089
+CTF4	CIN1	IREF-GRID	physical_interaction	0.0041
+CTF4	CIN1	IREF-MPACT	physical_interaction	0.0096
+CTF4	YAF9	IREF-GRID	physical_interaction	0.0021
+CTF4	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+CTF4	NUP133	IREF-GRID	physical_interaction	0.002
+YPL225W	NEW1	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.15
+SHE4	HMI1	IREF-GRID	physical_interaction	0.0058
+SHE4	ATP23	IREF-GRID	physical_interaction	0.0056
+SHE4	TCO89	Aronova-Powers-2007	physical_interaction	0.23
+SHE4	TCO89	IREF-GRID	physical_interaction	0.0041
+SHE4	TPM1	IREF-GRID	physical_interaction	0.0044
+SHE4	ALG8	Tong-Boone-2004	physical_interaction	0.13
+SHE4	ALG8	IREF-GRID	physical_interaction	0.0055
+SHE4	ALG8	IREF-MPACT	physical_interaction	0.09
+SHE4	YDJ1	IREF-GRID	physical_interaction	0.0031
+SHE4	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+SHE4	MMR1	IREF-GRID	physical_interaction	0.0043
+SHE4	CHS5	IREF-GRID	physical_interaction	0.0032
+YME1	LGE1	IREF-GRID	physical_interaction	0.0033
+YME1	RTC6	IREF-GRID	physical_interaction	0.0083
+YME1	PHO23	IREF-GRID	physical_interaction	0.0029
+YME1	ATG13	IREF-GRID	physical_interaction	0.013
+YME1	GLO4	IREF-GRID	physical_interaction	0.021
+YME1	YAF9	IREF-GRID	physical_interaction	0.0045
+YME1	NUP133	IREF-GRID	physical_interaction	0.0043
+COX10	ATP23	IREF-GRID	physical_interaction	0.007
+COX10	PDE2	IREF-GRID	physical_interaction	0.0047
+COX10	SGT2	IREF-GRID	physical_interaction	0.01
+COX10	PHO23	IREF-GRID	physical_interaction	0.0023
+COX10	RDL1	IREF-GRID	physical_interaction	0.017
+COX10	FAR11	IREF-GRID	physical_interaction	0.0088
+COX10	DGK1	IREF-GRID	physical_interaction	0.0039
+RTG1	YPL041C	IREF-GRID	physical_interaction	0.014
+RTG1	TCO89	IREF-GRID	physical_interaction	0.0048
+RTG1	VPS27	IREF-GRID	physical_interaction	0.0033
+RTG1	CYB5	IREF-GRID	physical_interaction	0.013
+RTG1	INO4	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.059
+RTG1	INO4	IREF-BIND	physical_interaction	0.19
+RTG1	INO4	IREF-BIND-TRANSLATION	physical_interaction	0.19
+RTG1	INO4	IREF-DIP	physical_interaction	0.2
+RTG1	INO4	IREF-GRID	physical_interaction	0.0038
+RTG1	INO4	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.18
+RTG1	INO4	Lee-Marcotte-2007 Protein interactions	physical_interaction	0.2
+RTG1	NUP188	IREF-GRID	physical_interaction	0.0039
+RTG1	SAM37	IREF-GRID	physical_interaction	0.005
+RTG1	MEH1	IREF-GRID	physical_interaction	0.0061
+CLN2	MNE1	IREF-GRID	physical_interaction	0.0061
+CLN2	LGE1	IREF-GRID	physical_interaction	0.0023
+CLN2	ATP23	IREF-GRID	physical_interaction	0.0062
+CLN2	HAP5	IREF-GRID	physical_interaction	0.0044
+CLN2	TCO89	IREF-GRID	physical_interaction	0.0046
+BTS1	WHI2	IREF-GRID	physical_interaction	0.0033
+BTS1	PDE2	IREF-GRID	physical_interaction	0.0039
+BTS1	LEA1	IREF-GRID	physical_interaction	0.0029
+BTS1	CYB5	IREF-GRID	physical_interaction	0.011
+BTS1	IRA2	IREF-GRID	physical_interaction	0.002
+BTS1	ALG8	IREF-GRID	physical_interaction	0.0058
+BTS1	ALG5	IREF-GRID	physical_interaction	0.0046
+BTS1	MMR1	IREF-GRID	physical_interaction	0.0045
+BTS1	CHS5	IREF-GRID	physical_interaction	0.0033
+BTS1	ELP6	IREF-GRID	physical_interaction	0.004
+ARL3	LEO1	IREF-GRID	physical_interaction	0.0038
+ARL3	VAM3	Tong-Boone-2004	physical_interaction	0.2
+ARL3	VAM3	IREF-GRID	physical_interaction	0.0044
+ARL3	VAM3	IREF-MPACT	physical_interaction	0.047
+ARL3	VPS5	Tong-Boone-2004	physical_interaction	0.074
+ARL3	VPS5	IREF-GRID	physical_interaction	0.0057
+ARL3	VPS5	IREF-MPACT	physical_interaction	0.041
+ARL3	ALG8	IREF-GRID	physical_interaction	0.006
+ARL3	MEH1	IREF-GRID	physical_interaction	0.0056
+BEM4	HAP5	IREF-GRID	physical_interaction	0.0066
+BEM4	MSB1	IREF-GRID	physical_interaction	0.033
+BEM4	MSB1	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.28
+BEM4	PHO23	IREF-GRID	physical_interaction	0.003
+BEM4	CHS5	Tong-Boone-2004	physical_interaction	0.03
+BEM4	CHS5	IREF-GRID	physical_interaction	0.0052
+BEM4	CHS5	IREF-MPACT	physical_interaction	0.0093
+BEM4	RIM20	IREF-GRID	physical_interaction	0.0071
+IDH2	NEW1	Gavin-Superti-Furga-2006 A	physical_interaction	0.088
+IDH2	NEW1	Gavin-Superti-Furga-2006 B	physical_interaction	0.1
+IDH2	NEW1	IREF-GRID	physical_interaction	0.0059
+IDH2	NEW1	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.038
+IDH2	NEW1	IntAct_Physical interactions	physical_interaction	0.35
+IDH2	PDE2	IREF-GRID	physical_interaction	0.0068
+IDH2	IRA2	IREF-GRID	physical_interaction	0.0035
+IDH2	INO4	IREF-GRID	physical_interaction	0.0057
+IDH2	RPS1A	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.01
+YAR1	PDE2	IREF-GRID	physical_interaction	0.01
+YAR1	SUR1	IREF-GRID	physical_interaction	0.01
+YAR1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+YAR1	ELP6	IREF-GRID	physical_interaction	0.01
+MMS1	TOP1	IREF-GRID	physical_interaction	0.0047
+MMS1	PMS1	IREF-GRID	physical_interaction	0.017
+MMS1	INO4	IREF-GRID	physical_interaction	0.005
+MMS1	YKL069W	IREF-GRID	physical_interaction	0.0078
+MNE1	ATP23	IREF-GRID	physical_interaction	0.0094
+MNE1	THP3	IREF-GRID	physical_interaction	0.011
+MNE1	LCL1	IREF-GRID	physical_interaction	0.03
+MNE1	IRC15	IREF-GRID	physical_interaction	0.015
+MNE1	UME1	IREF-GRID	physical_interaction	0.0098
+MNE1	SPE2	IREF-GRID	physical_interaction	0.016
+MSB4	KES1	IREF-GRID	physical_interaction	0.0068
+MSB4	MKK1	IREF-GRID	physical_interaction	0.012
+MSB4	HUT1	IREF-GRID	physical_interaction	0.041
+MSB4	HIR2	IREF-GRID	physical_interaction	0.0055
+LGE1	YOR246C	IREF-GRID	physical_interaction	0.0045
+LGE1	ELP3	IREF-GRID	physical_interaction	0.0018
+LGE1	TCO89	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.024
+LGE1	TCO89	Lambert-Figeys-2009	physical_interaction	0.16
+LGE1	TCO89	IREF-GRID	physical_interaction	0.0025
+LGE1	TCO89	IntAct_Physical interactions	physical_interaction	0.35
+LGE1	LEA1	IREF-GRID	physical_interaction	0.0017
+LGE1	CYB5	IREF-GRID	physical_interaction	0.0067
+LGE1	PHO23	IREF-GRID	physical_interaction	0.0011
+LGE1	UME1	IREF-GRID	physical_interaction	0.0036
+LGE1	RAD1	IREF-GRID	physical_interaction	0.0023
+LGE1	VPS5	IREF-GRID	physical_interaction	0.0033
+LGE1	CKA2	IREF-GRID	physical_interaction	0.002
+LGE1	YAF9	IREF-GRID	physical_interaction	0.0017
+LGE1	NUP188	IREF-GRID	physical_interaction	0.0021
+LGE1	NUP133	IREF-GRID	physical_interaction	0.0016
+LGE1	SAM37	IREF-GRID	physical_interaction	0.0026
+LGE1	DGK1	IREF-GRID	physical_interaction	0.0019
+LGE1	MMR1	IREF-GRID	physical_interaction	0.0026
+LGE1	CHS5	Tong-Boone-2004	physical_interaction	0.026
+LGE1	CHS5	IREF-GRID	physical_interaction	0.002
+LGE1	CHS5	IREF-MPACT	physical_interaction	0.027
+LGE1	ELP6	IREF-GRID	physical_interaction	0.0023
+CTF19	THP3	IREF-GRID	physical_interaction	0.0086
+CTF19	MCM16	IREF-INTACT	physical_interaction	0.13
+CTF19	MCM16	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.069
+CTF19	CIN2	IREF-GRID	physical_interaction	0.0081
+CTF19	CIN1	Tong-Boone-2004	physical_interaction	0.072
+CTF19	CIN1	IREF-GRID	physical_interaction	0.0073
+CTF19	CIN1	IREF-MPACT	physical_interaction	0.034
+CTF19	YAF9	IREF-GRID	physical_interaction	0.0037
+INP53	KES1	IREF-GRID	physical_interaction	0.0074
+INP53	VPS27	IREF-GRID	physical_interaction	0.0052
+INP53	SRO7	IREF-GRID	physical_interaction	0.0092
+INP53	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+NCS2	ELP3	IREF-GRID	physical_interaction	0.0077
+NCS2	HIR2	IREF-GRID	physical_interaction	0.0085
+NCS2	NUP133	IREF-GRID	physical_interaction	0.0069
+NCS2	ELP6	IREF-GRID	physical_interaction	0.0099
+HMI1	YPR089W	IREF-GRID	physical_interaction	0.011
+HMI1	MDL2	Ito-Sakaki-2001	physical_interaction	0.97
+HMI1	MDL2	IREF-BIND	physical_interaction	0.97
+HMI1	MDL2	IREF-BIND-TRANSLATION	physical_interaction	0.97
+HMI1	MDL2	IREF-DIP	physical_interaction	0.66
+HMI1	MDL2	IREF-INTACT	physical_interaction	0.76
+HMI1	MDL2	IREF-MINT	physical_interaction	0.7
+HMI1	MDL2	IREF-MPACT	physical_interaction	0.97
+HMI1	MDL2	Lee-Marcotte-2007 Y2H	physical_interaction	1
+HMI1	MDL2	MINT_Physical interactions	physical_interaction	0.28
+HMI1	MDL2	IntAct_Physical interactions	physical_interaction	0.37
+HMI1	MDL2	IntAct_Physical interactions	physical_interaction	0.37
+HMI1	WHI2	IREF-GRID	physical_interaction	0.0056
+HMI1	FUM1	IREF-GRID	physical_interaction	0.014
+HMI1	LEA1	IREF-GRID	physical_interaction	0.0049
+HMI1	APM1	IREF-GRID	physical_interaction	0.017
+HMI1	LAT1	IREF-GRID	physical_interaction	0.012
+HMI1	YNR021W	IREF-GRID	physical_interaction	0.03
+HMI1	SRO7	IREF-GRID	physical_interaction	0.0089
+NEW1	TOP1	IREF-GRID	physical_interaction	0.0029
+NEW1	WHI2	IREF-GRID	physical_interaction	0.0032
+NEW1	LCL1	IREF-GRID	physical_interaction	0.018
+NEW1	MED1	IREF-GRID	physical_interaction	0.0027
+NEW1	CYB5	IREF-GRID	physical_interaction	0.011
+NEW1	PHO23	IREF-GRID	physical_interaction	0.0018
+NEW1	SRO7	IREF-GRID	physical_interaction	0.005
+NEW1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+NEW1	DGK1	IREF-GRID	physical_interaction	0.0031
+NEW1	MMR1	IREF-GRID	physical_interaction	0.0042
+NEW1	RPS1A	IntAct_Physical interactions	physical_interaction	0.35
+YPR089W	PNT1	IREF-GRID	physical_interaction	0.016
+YPR089W	MKK1	IREF-GRID	physical_interaction	0.014
+YPR089W	GLO4	IREF-GRID	physical_interaction	0.025
+PNT1	LEA1	IREF-GRID	physical_interaction	0.0066
+PNT1	VPS27	IREF-GRID	physical_interaction	0.0068
+PNT1	IRA2	IREF-GRID	physical_interaction	0.0046
+PNT1	PHO23	IREF-GRID	physical_interaction	0.0044
+MDL2	PDE2	Tarassov-Michnick-2008 B	physical_interaction	0.31
+MDL2	PDE2	IREF-INTACT	physical_interaction	0.13
+MDL2	SPC2	IREF-GRID	physical_interaction	0.022
+SLK19	NUP133	IREF-GRID	physical_interaction	0.0059
+MET16	SFL1	IREF-GRID	physical_interaction	0.029
+MET16	IRA2	IREF-GRID	physical_interaction	0.0092
+TOP1	BRR1	IREF-GRID	physical_interaction	0.0033
+TOP1	MCM16	Tong-Boone-2004	physical_interaction	0.056
+TOP1	MCM16	IREF-GRID	physical_interaction	0.0053
+TOP1	MCM16	IREF-MPACT	physical_interaction	0.029
+TOP1	PUS7	IREF-GRID	physical_interaction	0.0098
+TOP1	KES1	IREF-GRID	physical_interaction	0.0036
+TOP1	WHI2	IREF-GRID	physical_interaction	0.0029
+TOP1	MSS18	IREF-GRID	physical_interaction	0.0055
+TOP1	LEA1	IREF-GRID	physical_interaction	0.0025
+TOP1	CKB2	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.035
+TOP1	SUR1	IREF-GRID	physical_interaction	0.0034
+TOP1	HIR2	IREF-GRID	physical_interaction	0.003
+TOP1	PHO23	IREF-GRID	physical_interaction	0.0016
+TOP1	YDJ1	Gong-Houry-2009 A	physical_interaction	0.24
+TOP1	YDJ1	Gong-Houry-2009 B	physical_interaction	0.27
+TOP1	YDJ1	IREF-GRID	physical_interaction	0.0028
+TOP1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+TOP1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+TOP1	NUP133	IREF-GRID	physical_interaction	0.0024
+ATP23	RTC6	IREF-GRID	physical_interaction	0.0087
+ATP23	IRA2	IREF-GRID	physical_interaction	0.0033
+ATP23	PHO23	IREF-GRID	physical_interaction	0.0031
+ATP23	RDL1	IREF-GRID	physical_interaction	0.024
+MRN1	TOM70	IREF-GRID	physical_interaction	0.018
+MRN1	NUP133	IREF-GRID	physical_interaction	0.013
+SSP2	IRA2	IREF-GRID	physical_interaction	0.0094
+THP3	LEA1	IREF-GRID	physical_interaction	0.0054
+THP3	NUP188	IREF-GRID	physical_interaction	0.0065
+THP3	DGK1	IREF-GRID	physical_interaction	0.0061
+THP3	ELP6	IREF-GRID	physical_interaction	0.0074
+BRR1	SNU66	IREF-GRID	physical_interaction	0.0051
+BRR1	LEA1	IREF-GRID	physical_interaction	0.0031
+BRR1	LEA1	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.03
+BRR1	FPR1	IREF-GRID	physical_interaction	0.0053
+BRR1	SWM2	IREF-GRID	physical_interaction	0.011
+BRR1	NUP188	IREF-GRID	physical_interaction	0.0037
+RBL2	LEA1	IREF-GRID	physical_interaction	0.0067
+RBL2	CIN2	Tong-Boone-2004	physical_interaction	0.083
+RBL2	CIN2	IREF-GRID	physical_interaction	0.015
+RBL2	CIN2	IREF-MPACT	physical_interaction	0.054
+RBL2	CIN1	Tong-Boone-2004	physical_interaction	0.059
+RBL2	CIN1	IREF-GRID	physical_interaction	0.013
+RBL2	CIN1	IREF-MPACT	physical_interaction	0.045
+MDM36	TOM70	IREF-GRID	physical_interaction	0.016
+ADH1	LEO1	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.041
+ADH1	HIR2	IREF-GRID	physical_interaction	0.0062
+ADH1	PHO91	IntAct_Physical interactions	physical_interaction	0.35
+ADH1	FAR11	Gavin-Superti-Furga-2002 A	physical_interaction	0.033
+ADH1	FAR11	Gavin-Superti-Furga-2002 B	physical_interaction	0.033
+ADH1	FAR11	IREF-DIP	physical_interaction	0.043
+ADH1	FAR11	IREF-GRID	physical_interaction	0.013
+ADH1	FAR11	IREF-MINT	physical_interaction	0.043
+ADH1	FAR11	IntAct_Physical interactions	physical_interaction	0.53
+ADH1	FAR11	IntAct_Physical interactions	physical_interaction	0.53
+ADH1	FAR11	IntAct_Physical interactions	physical_interaction	0.53
+ADH1	FAR11	IntAct_Physical interactions	physical_interaction	0.53
+ADH1	FAR11	MINT_Physical interactions	physical_interaction	0.19
+ADH1	ALG8	IREF-GRID	physical_interaction	0.01
+ADH1	SPC2	IntAct_Physical interactions	physical_interaction	0.35
+ADH1	CHS5	IntAct_Physical interactions	physical_interaction	0.27
+ADH1	CHS5	IntAct_Physical interactions	physical_interaction	0.27
+MCM16	NUP133	IREF-GRID	physical_interaction	0.0048
+MSN1	NUP133	IREF-GRID	physical_interaction	0.0065
+MSN1	CHS5	IREF-GRID	physical_interaction	0.0078
+YPL041C	CKB2	IREF-GRID	physical_interaction	0.011
+RTC6	PDE2	IREF-GRID	physical_interaction	0.0059
+RTC6	YPR013C	IREF-GRID	physical_interaction	0.024
+RTC6	IRA2	IREF-GRID	physical_interaction	0.003
+RTC6	PHO23	IREF-GRID	physical_interaction	0.0028
+RTC6	RPS1A	IREF-GRID	physical_interaction	0.0088
+HAP5	WHI2	IREF-GRID	physical_interaction	0.0039
+HAP5	VPS27	IREF-GRID	physical_interaction	0.0034
+HAP5	IRA2	IREF-GRID	physical_interaction	0.0024
+HAP5	PHO23	IREF-GRID	physical_interaction	0.0022
+HAP5	YNR021W	IREF-GRID	physical_interaction	0.021
+HAP5	AAH1	IREF-GRID	physical_interaction	0.0068
+HAP5	ELP6	Uetz-Rothberg-2000	physical_interaction	0.26
+HAP5	ELP6	IREF-INTACT	physical_interaction	0.1
+HAP5	ELP6	IREF-MINT	physical_interaction	0.16
+HAP5	ELP6	MINT_Physical interactions	physical_interaction	0.28
+YOR246C	WHI2	IREF-GRID	physical_interaction	0.007
+YOR246C	POC4	IREF-GRID	physical_interaction	0.019
+YOR246C	ATX2	IREF-GRID	physical_interaction	0.054
+YOR246C	YLR065C	IREF-GRID	physical_interaction	0.015
+YOR246C	SAM37	IREF-GRID	physical_interaction	0.0094
+CEX1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+PUS7	SNU66	IREF-GRID	physical_interaction	0.015
+PUS7	LEA1	IREF-GRID	physical_interaction	0.0091
+PUS7	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+AIM39	SFL1	IREF-GRID	physical_interaction	0.023
+AIM39	VPS27	IREF-GRID	physical_interaction	0.011
+KES1	ELP3	IREF-GRID	physical_interaction	0.0036
+KES1	SNU66	IREF-GRID	physical_interaction	0.0057
+KES1	YPR153W	IREF-GRID	physical_interaction	0.019
+KES1	CHS5	IREF-GRID	physical_interaction	0.0039
+KES1	DBP7	IREF-GRID	physical_interaction	0.0064
+KES1	MEH1	IREF-GRID	physical_interaction	0.0063
+WHI2	SNU66	IREF-GRID	physical_interaction	0.0045
+WHI2	PDE2	IREF-GRID	physical_interaction	0.0037
+WHI2	VPS27	IREF-GRID	physical_interaction	0.0027
+WHI2	IRA2	IREF-GRID	physical_interaction	0.0019
+WHI2	TPM1	IREF-GRID	physical_interaction	0.0043
+WHI2	YAF9	IREF-GRID	physical_interaction	0.0027
+WHI2	DGK1	IREF-GRID	physical_interaction	0.003
+FUM1	PHO23	IREF-GRID	physical_interaction	0.0044
+MDY2	GET4	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.14
+MDY2	GET4	Krogan-Greenblatt-2006 A	physical_interaction	0.53
+MDY2	GET4	Krogan-Greenblatt-2006 B	physical_interaction	0.59
+MDY2	GET4	IREF-GRID	physical_interaction	0.023
+MDY2	GET4	IREF-INTACT	physical_interaction	0.15
+MDY2	GET4	IREF-MINT	physical_interaction	0.15
+MDY2	GET4	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.68
+MDY2	GET4	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.25
+MDY2	GET4	IntAct_Physical interactions	physical_interaction	0.74
+MDY2	GET4	IntAct_Physical interactions	physical_interaction	0.74
+MDY2	GET4	IntAct_Physical interactions	physical_interaction	0.74
+MDY2	GET4	IntAct_Physical interactions	physical_interaction	0.74
+MDY2	GET4	IntAct_Physical interactions	physical_interaction	0.74
+MDY2	GET4	IntAct_Physical interactions	physical_interaction	0.74
+MDY2	GET4	IntAct_Physical interactions	physical_interaction	0.74
+MDY2	GET4	IntAct_Physical interactions	physical_interaction	0.74
+MDY2	GET4	IntAct_Physical interactions	physical_interaction	0.74
+MDY2	GET4	IntAct_Physical interactions	physical_interaction	0.74
+MDY2	SGT2	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.1
+MDY2	SGT2	Krogan-Greenblatt-2006 A	physical_interaction	0.28
+MDY2	SGT2	Yu-Vidal-2008 A	physical_interaction	0.47
+MDY2	SGT2	Uetz-Rothberg-2000	physical_interaction	1
+MDY2	SGT2	Ito-Sakaki-2001	physical_interaction	0.31
+MDY2	SGT2	Yu-Vidal-2008 B	physical_interaction	0.47
+MDY2	SGT2	IREF-BIND	physical_interaction	0.28
+MDY2	SGT2	IREF-BIND-TRANSLATION	physical_interaction	0.32
+MDY2	SGT2	IREF-DIP	physical_interaction	0.27
+MDY2	SGT2	IREF-GRID	physical_interaction	0.02
+MDY2	SGT2	IREF-INTACT	physical_interaction	0.13
+MDY2	SGT2	IREF-MINT	physical_interaction	0.16
+MDY2	SGT2	IREF-MPACT	physical_interaction	0.33
+MDY2	SGT2	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.23
+MDY2	SGT2	Lee-Marcotte-2007 Y2H	physical_interaction	0.74
+MDY2	SGT2	IntAct_Physical interactions	physical_interaction	0.87
+MDY2	SGT2	MINT_Physical interactions	physical_interaction	0.627
+MDY2	SGT2	MINT_Physical interactions	physical_interaction	0.627
+MDY2	SGT2	IntAct_Physical interactions	physical_interaction	0.87
+MDY2	SGT2	IntAct_Physical interactions	physical_interaction	0.87
+MDY2	SGT2	IntAct_Physical interactions	physical_interaction	0.87
+MDY2	SGT2	IntAct_Physical interactions	physical_interaction	0.87
+MDY2	SGT2	IntAct_Physical interactions	physical_interaction	0.87
+MDY2	SGT2	MINT_Physical interactions	physical_interaction	0.627
+MDY2	SGT2	MINT_Physical interactions	physical_interaction	0.627
+MDY2	SGT2	MINT_Physical interactions	physical_interaction	0.627
+MDY2	YDJ1	IREF-INTACT	physical_interaction	0.28
+MDY2	YDJ1	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.11
+MDY2	DGK1	IREF-GRID	physical_interaction	0.0075
+LEO1	MED1	IREF-GRID	physical_interaction	0.0029
+LEO1	CKB2	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.061
+LEO1	SUR1	IREF-GRID	physical_interaction	0.004
+LEO1	HIR2	IREF-GRID	physical_interaction	0.0035
+LEO1	PHO23	IREF-GRID	physical_interaction	0.0019
+LEO1	UME1	IREF-GRID	physical_interaction	0.0062
+LEO1	CKA2	Collins-Krogan-2007 A	physical_interaction	0.071
+LEO1	CKA2	Collins-Krogan-2007 B	physical_interaction	0.27
+LEO1	CKA2	IREF-GRID	physical_interaction	0.0034
+LEO1	CKA2	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.051
+LEO1	YAF9	IREF-GRID	physical_interaction	0.0029
+LEO1	SAM37	IREF-GRID	physical_interaction	0.0045
+MSS18	LEA1	IREF-GRID	physical_interaction	0.0051
+ELP3	IRA2	IREF-GRID	physical_interaction	0.0017
+ELP3	PHO23	IREF-GRID	physical_interaction	0.0016
+ELP3	CAM1	IREF-GRID	physical_interaction	0.01
+ELP3	NBA1	IREF-GRID	physical_interaction	0.014
+ELP3	TPM1	IREF-GRID	physical_interaction	0.0039
+ELP3	YAF9	IREF-GRID	physical_interaction	0.0025
+ELP3	INO4	IREF-GRID	physical_interaction	0.0029
+ELP3	ELP6	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.14
+ELP3	ELP6	Collins-Krogan-2007 A	physical_interaction	0.23
+ELP3	ELP6	IREF-BIND	physical_interaction	0.3
+ELP3	ELP6	IREF-BIND-TRANSLATION	physical_interaction	0.3
+ELP3	ELP6	IREF-DIP	physical_interaction	0.16
+ELP3	ELP6	IREF-GRID	physical_interaction	0.0034
+ELP3	ELP6	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.16
+ELP3	ELP6	Lee-Marcotte-2007 Protein interactions	physical_interaction	0.19
+ELP3	ELP6	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.1
+ELP3	ELP6	IntAct_Physical interactions	physical_interaction	0.64
+ELP3	ELP6	IntAct_Physical interactions	physical_interaction	0.64
+SNU66	LEA1	Collins-Krogan-2007 A	physical_interaction	0.031
+SNU66	LEA1	Collins-Krogan-2007 B	physical_interaction	0.11
+SNU66	LEA1	IREF-GRID	physical_interaction	0.0039
+SNU66	LEA1	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.019
+SNU66	MOD5	IREF-GRID	physical_interaction	0.025
+SNU66	PHO23	IREF-GRID	physical_interaction	0.0026
+SNU66	SWM2	IREF-GRID	physical_interaction	0.014
+SNU66	YAF9	IREF-GRID	physical_interaction	0.0039
+PDE2	TOM70	IREF-GRID	physical_interaction	0.0043
+PDE2	HIR2	IREF-GRID	physical_interaction	0.0038
+PDE2	MET31	Tarassov-Michnick-2008 B	physical_interaction	0.22
+PDE2	MET31	IREF-INTACT	physical_interaction	0.12
+PDE2	IRA2	IREF-GRID	physical_interaction	0.0022
+PDE2	VAM3	IREF-GRID	physical_interaction	0.0047
+PDE2	CHS5	Tong-Boone-2004	physical_interaction	0.075
+PDE2	CHS5	IREF-GRID	physical_interaction	0.0037
+PDE2	CHS5	IREF-MPACT	physical_interaction	0.036
+MCT1	PHO23	IREF-GRID	physical_interaction	0.0043
+RFM1	MMR1	IREF-GRID	physical_interaction	0.024
+SFL1	MED1	IREF-GRID	physical_interaction	0.0052
+LEA1	TRM10	IREF-GRID	physical_interaction	0.011
+LEA1	YNR021W	IREF-GRID	physical_interaction	0.015
+LEA1	CAM1	IREF-GRID	physical_interaction	0.0093
+LEA1	FPR1	IREF-GRID	physical_interaction	0.004
+LEA1	SWM2	IREF-GRID	physical_interaction	0.0081
+LEA1	GLO4	IREF-GRID	physical_interaction	0.011
+LEA1	YAF9	IREF-GRID	physical_interaction	0.0023
+LEA1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+LEA1	SAM37	IREF-GRID	physical_interaction	0.0036
+LEA1	CHS5	Tong-Boone-2004	physical_interaction	0.049
+LEA1	CHS5	IREF-GRID	physical_interaction	0.0027
+LEA1	CHS5	IREF-MPACT	physical_interaction	0.042
+GET4	SGT2	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.1
+GET4	SGT2	Ito-Sakaki-2001	physical_interaction	0.24
+GET4	SGT2	IREF-BIND	physical_interaction	0.19
+GET4	SGT2	IREF-BIND-TRANSLATION	physical_interaction	0.21
+GET4	SGT2	IREF-DIP	physical_interaction	0.19
+GET4	SGT2	IREF-GRID	physical_interaction	0.024
+GET4	SGT2	IREF-INTACT	physical_interaction	0.16
+GET4	SGT2	IREF-MINT	physical_interaction	0.19
+GET4	SGT2	IREF-MPACT	physical_interaction	0.24
+GET4	SGT2	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.29
+GET4	SGT2	IntAct_Physical interactions	physical_interaction	0.67
+GET4	SGT2	IntAct_Physical interactions	physical_interaction	0.67
+GET4	SGT2	IntAct_Physical interactions	physical_interaction	0.67
+GET4	SGT2	IntAct_Physical interactions	physical_interaction	0.67
+GET4	YDJ1	IREF-GRID	physical_interaction	0.009
+GET4	YDJ1	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.15
+CAT5	CKB2	IREF-GRID	physical_interaction	0.0056
+CAT5	IRA2	IREF-GRID	physical_interaction	0.0036
+CAT5	RDL1	IREF-GRID	physical_interaction	0.026
+CAT5	YDJ1	Ho-Tyers-2002 B	physical_interaction	0.019
+CAT5	YDJ1	IREF-DIP	physical_interaction	0.022
+IRC15	CIN2	IREF-GRID	physical_interaction	0.017
+IRC15	CIN1	IREF-GRID	physical_interaction	0.015
+IRC15	NUP188	IREF-GRID	physical_interaction	0.0091
+TOM70	YPR013C	IREF-GRID	physical_interaction	0.018
+TOM70	RAD1	IREF-GRID	physical_interaction	0.0042
+TOM70	YLR065C	IREF-GRID	physical_interaction	0.0078
+TOM70	SAM37	IREF-BIND	physical_interaction	0.49
+TOM70	SAM37	IREF-BIND-TRANSLATION	physical_interaction	0.49
+TOM70	SAM37	IREF-GRID	physical_interaction	0.0048
+TOM70	SAM37	IREF-MPACT	physical_interaction	0.12
+TOM70	SAM37	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.06
+TOM70	DBP7	IREF-GRID	physical_interaction	0.0059
+TOM70	SVL3	IREF-GRID	physical_interaction	0.0073
+AZF1	PHO23	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.14
+MED1	CKB2	IREF-GRID	physical_interaction	0.0025
+MED1	HIR2	IREF-GRID	physical_interaction	0.0028
+MED1	IRA2	IREF-GRID	physical_interaction	0.0016
+MED1	YAF9	IREF-GRID	physical_interaction	0.0023
+MED1	INO4	IREF-GRID	physical_interaction	0.0027
+MED1	DGK1	IREF-GRID	physical_interaction	0.0026
+CIN2	CIN1	Tong-Boone-2004	physical_interaction	0.038
+CIN2	CIN1	IREF-GRID	physical_interaction	0.01
+CIN2	CIN1	IREF-MPACT	physical_interaction	0.032
+CIN2	YAF9	IREF-GRID	physical_interaction	0.0051
+VPS27	HIR2	IREF-GRID	physical_interaction	0.0028
+VPS27	IRA2	IREF-GRID	physical_interaction	0.0017
+VPS27	INO4	IREF-GRID	physical_interaction	0.0027
+VPS27	DGK1	IREF-GRID	physical_interaction	0.0027
+VPS27	CHS5	IREF-GRID	physical_interaction	0.0027
+VPS27	ELP6	IREF-GRID	physical_interaction	0.0033
+SGT2	YDJ1	IREF-INTACT	physical_interaction	0.29
+SGT2	YDJ1	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.35
+SGT2	YDJ1	IntAct_Physical interactions	physical_interaction	0.64
+SGT2	DGK1	IREF-GRID	physical_interaction	0.0076
+POC4	IRA2	IREF-GRID	physical_interaction	0.0051
+POC4	NUP133	IREF-GRID	physical_interaction	0.007
+RLM1	MKK1	IREF-GRID	physical_interaction	0.029
+RLM1	MKK1	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.19
+RLM1	PHO23	IREF-GRID	physical_interaction	0.0072
+APM1	YDJ1	Ho-Tyers-2002 B	physical_interaction	0.0075
+APM1	YDJ1	IREF-DIP	physical_interaction	0.0089
+MKK1	MID2	IREF-GRID	physical_interaction	0.01
+MKK1	SVL3	IREF-GRID	physical_interaction	0.014
+CKB2	CAM1	IREF-GRID	physical_interaction	0.01
+CKB2	CKA2	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.02
+CKB2	CKA2	Gavin-Superti-Furga-2002 A	physical_interaction	0.07
+CKB2	CKA2	Gavin-Superti-Furga-2006 A	physical_interaction	0.061
+CKB2	CKA2	Krogan-Greenblatt-2006 A	physical_interaction	0.092
+CKB2	CKA2	Collins-Krogan-2007 A	physical_interaction	0.051
+CKB2	CKA2	Tarassov-Michnick-2008 A	physical_interaction	0.36
+CKB2	CKA2	Breitkreutz-Tyers-2010 A	physical_interaction	0.047
+CKB2	CKA2	Uetz-Rothberg-2000	physical_interaction	0.16
+CKB2	CKA2	Ito-Sakaki-2001	physical_interaction	0.95
+CKB2	CKA2	Krogan-Greenblatt-2004	physical_interaction	0.13
+CKB2	CKA2	Tarassov-Michnick-2008 B	physical_interaction	0.32
+CKB2	CKA2	IREF-BIND	physical_interaction	0.14
+CKB2	CKA2	IREF-BIND-TRANSLATION	physical_interaction	0.18
+CKB2	CKA2	IREF-DIP	physical_interaction	0.014
+CKB2	CKA2	IREF-GRID	physical_interaction	0.003
+CKB2	CKA2	IREF-INTACT	physical_interaction	0.12
+CKB2	CKA2	IREF-MINT	physical_interaction	0.016
+CKB2	CKA2	IREF-MPACT	physical_interaction	0.16
+CKB2	CKA2	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.034
+CKB2	CKA2	Lee-Marcotte-2007 Protein interactions	physical_interaction	0.18
+CKB2	CKA2	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.037
+CKB2	CKA2	Lee-Marcotte-2007 Y2H	physical_interaction	0.63
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	IntAct_Physical interactions	physical_interaction	0.89
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	CKA2	MINT_Physical interactions	physical_interaction	0.928
+CKB2	YAF9	IREF-GRID	physical_interaction	0.0025
+CKB2	YKL069W	IREF-GRID	physical_interaction	0.0045
+CKB2	NUP133	IREF-GRID	physical_interaction	0.0024
+CKB2	DGK1	IREF-GRID	physical_interaction	0.0028
+YTA6	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+SUR1	VAM3	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.07
+SUR1	VAM3	IREF-GRID	physical_interaction	0.0047
+SUR1	VAM3	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.056
+SUR1	VAM3	Lee-Marcotte-2007 Protein interactions	physical_interaction	0.14
+SUR1	RAD1	IREF-GRID	physical_interaction	0.0043
+SUR1	YAF9	IREF-GRID	physical_interaction	0.0032
+MOD5	HIR2	IREF-GRID	physical_interaction	0.018
+MOD5	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+TRM10	DGK1	IREF-GRID	physical_interaction	0.013
+HUT1	YLR065C	IREF-GRID	physical_interaction	0.05
+HIR2	IRA2	IREF-GRID	physical_interaction	0.0019
+HIR2	VTS1	IREF-GRID	physical_interaction	0.02
+HIR2	SRO7	IREF-GRID	physical_interaction	0.005
+YPR013C	NUP133	IREF-GRID	physical_interaction	0.013
+YPL068C	IRA2	IREF-GRID	physical_interaction	0.012
+LAT1	IRA2	IREF-GRID	physical_interaction	0.0041
+LAT1	DMA2	Ho-Tyers-2002 B	physical_interaction	0.045
+LAT1	DMA2	IREF-DIP	physical_interaction	0.034
+LAT1	FPR1	Ho-Tyers-2002 B	physical_interaction	0.013
+LAT1	FPR1	IREF-DIP	physical_interaction	0.013
+LAT1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+LAT1	DGK1	IREF-GRID	physical_interaction	0.0066
+LAT1	CHS5	Tong-Boone-2004	physical_interaction	0.17
+LAT1	CHS5	IREF-GRID	physical_interaction	0.0067
+LAT1	CHS5	IREF-MPACT	physical_interaction	0.19
+MET31	YDJ1	IREF-GRID	physical_interaction	0.013
+NTG2	RAD1	IREF-GRID	physical_interaction	0.014
+IRA2	PHO23	IREF-GRID	physical_interaction	0.0011
+IRA2	VAM3	IREF-GRID	physical_interaction	0.0024
+IRA2	AAH1	IREF-GRID	physical_interaction	0.0033
+IRA2	YAF9	IREF-GRID	physical_interaction	0.0016
+IRA2	SRO7	IREF-GRID	physical_interaction	0.003
+IRA2	YDJ1	IREF-GRID	physical_interaction	0.0018
+IRA2	YKL069W	IREF-GRID	physical_interaction	0.0029
+IRA2	NUP133	IREF-GRID	physical_interaction	0.0016
+IRA2	YLR065C	IREF-GRID	physical_interaction	0.004
+IRA2	UBX4	IREF-GRID	physical_interaction	0.0058
+IRA2	RPS1A	IREF-GRID	physical_interaction	0.0033
+IRA2	CHS5	Tong-Boone-2004	physical_interaction	0.044
+IRA2	CHS5	IREF-GRID	physical_interaction	0.0019
+IRA2	CHS5	IREF-MPACT	physical_interaction	0.042
+IRA2	DBP7	IREF-GRID	physical_interaction	0.0031
+IRA2	MEH1	IREF-GRID	physical_interaction	0.003
+IRA2	RIM20	IREF-GRID	physical_interaction	0.0025
+PHO23	UME1	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.035
+PHO23	UME1	Gavin-Superti-Furga-2006 A	physical_interaction	0.13
+PHO23	UME1	Collins-Krogan-2007 A	physical_interaction	0.089
+PHO23	UME1	Gavin-Superti-Furga-2006 B	physical_interaction	0.82
+PHO23	UME1	IREF-GRID	physical_interaction	0.0032
+PHO23	UME1	Lee-Marcotte-2007 Protein interactions	physical_interaction	0.1
+PHO23	UME1	Lee-Marcotte-2007 Protein complexes	physical_interaction	0.074
+PHO23	UME1	IntAct_Physical interactions	physical_interaction	0.35
+PHO23	YAF9	IREF-GRID	physical_interaction	0.0015
+PHO23	INO4	IREF-GRID	physical_interaction	0.0018
+PHO23	SRO7	IREF-GRID	physical_interaction	0.0028
+PHO23	NUP188	IREF-GRID	physical_interaction	0.0018
+PHO23	YKL069W	IREF-GRID	physical_interaction	0.0027
+PHO23	NUP133	IREF-GRID	physical_interaction	0.0015
+PHO23	SAM37	IREF-GRID	physical_interaction	0.0024
+PHO23	CHS5	IREF-GRID	physical_interaction	0.0018
+PHO23	ELP6	IREF-GRID	physical_interaction	0.0021
+PHO23	MEH1	IREF-GRID	physical_interaction	0.0028
+PHO23	RIM20	IREF-GRID	physical_interaction	0.0024
+RDL1	SWS2	IREF-GRID	physical_interaction	0.02
+CIN1	YAF9	IREF-GRID	physical_interaction	0.0046
+CIN1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+CIN1	NUP133	IREF-GRID	physical_interaction	0.0044
+VAM3	YAF9	IREF-GRID	physical_interaction	0.0034
+VAM3	INO4	IREF-GRID	physical_interaction	0.0039
+VAM3	DGK1	IREF-GRID	physical_interaction	0.0038
+VAM3	MMR1	IREF-GRID	physical_interaction	0.0053
+UME1	NUP188	IREF-GRID	physical_interaction	0.006
+RAD1	DMA2	Ho-Tyers-2002 A	physical_interaction	0.052
+RAD1	DMA2	Ho-Tyers-2002 B	physical_interaction	0.044
+RAD1	DMA2	IREF-DIP	physical_interaction	0.024
+RAD1	DMA2	IREF-GRID	physical_interaction	0.014
+RAD1	DMA2	IntAct_Physical interactions	physical_interaction	0.35
+RAD1	DMA2	IntAct_Physical interactions	physical_interaction	0.35
+RAD1	PMS1	IREF-GRID	physical_interaction	0.012
+RAD1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+CAM1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+VPS5	RIM20	IREF-GRID	physical_interaction	0.007
+NBA1	CHS5	IREF-GRID	physical_interaction	0.015
+NBA1	ELP6	IREF-GRID	physical_interaction	0.018
+AAH1	INO4	IREF-GRID	physical_interaction	0.0054
+AAH1	MMR1	IREF-GRID	physical_interaction	0.0073
+TPM1	MMR1	IREF-GRID	physical_interaction	0.0057
+TPM1	CHS5	Tong-Boone-2004	physical_interaction	0.035
+TPM1	CHS5	IREF-GRID	physical_interaction	0.0042
+TPM1	CHS5	IREF-MPACT	physical_interaction	0.018
+TPM1	ELP6	IREF-GRID	physical_interaction	0.0051
+CKA2	INO4	IREF-GRID	physical_interaction	0.0031
+CKA2	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+YAF9	CHS5	IREF-GRID	physical_interaction	0.0027
+YAF9	ELP6	IREF-GRID	physical_interaction	0.0032
+INO4	ALG8	IREF-GRID	physical_interaction	0.0054
+INO4	YDJ1	Ho-Tyers-2002 B	physical_interaction	0.02
+INO4	YDJ1	IREF-DIP	physical_interaction	0.011
+INO4	SAM37	IREF-GRID	physical_interaction	0.0041
+INO4	DGK1	IREF-GRID	physical_interaction	0.003
+INO4	MMR1	IREF-GRID	physical_interaction	0.0041
+INO4	ELP6	IREF-GRID	physical_interaction	0.0037
+SWS2	DGK1	IREF-GRID	physical_interaction	0.0044
+FAR11	YLR065C	IREF-GRID	physical_interaction	0.015
+FAR11	SAM37	IREF-GRID	physical_interaction	0.0092
+FAR11	DGK1	IREF-GRID	physical_interaction	0.0067
+ALG8	ALG5	IREF-GRID	physical_interaction	0.0074
+ALG8	DGK1	IREF-GRID	physical_interaction	0.0052
+MKT1	ALG5	IREF-GRID	physical_interaction	0.0099
+MKT1	YDJ1	IntAct_Physical interactions	physical_interaction	0.35
+YDJ1	SAM37	IntAct_Physical interactions	physical_interaction	0.35
+YDJ1	RPS1A	IntAct_Physical interactions	physical_interaction	0.35
+YDJ1	MID2	IREF-GRID	physical_interaction	0.0044
+NUP188	YKL069W	IREF-GRID	physical_interaction	0.005
+NUP188	NUP133	BIOGRID-SMALL-SCALE-STUDIES	physical_interaction	0.041
+NUP188	NUP133	IREF-GRID	physical_interaction	0.0027
+NUP188	NUP133	IREF-SMALL-SCALE-STUDIES	physical_interaction	0.084
+NUP188	NUP133	Lee-Marcotte-2007 Protein interactions	physical_interaction	0.19
+YKL069W	NUP133	IREF-GRID	physical_interaction	0.004
+YKL069W	CHS5	IREF-GRID	physical_interaction	0.0048
+NUP133	SAM37	IREF-GRID	physical_interaction	0.0035
+NUP133	CHS5	Tong-Boone-2004	physical_interaction	0.052
+NUP133	CHS5	IREF-GRID	physical_interaction	0.0026
+NUP133	CHS5	IREF-MPACT	physical_interaction	0.048
+YLR065C	SVL3	IREF-GRID	physical_interaction	0.013
+SAM37	DGK1	IREF-GRID	physical_interaction	0.004
+SAM37	MMR1	IREF-GRID	physical_interaction	0.0055
+YMR166C	DGK1	IREF-GRID	physical_interaction	0.016
+CHS5	ELP6	IREF-GRID	physical_interaction	0.0037
+CHS5	DBP7	IREF-GRID	physical_interaction	0.0051
+CHS5	MEH1	IREF-GRID	physical_interaction	0.005
+CHS5	RIM20	IREF-GRID	physical_interaction	0.0042
+MID2	DBP7	IREF-GRID	physical_interaction	0.0074	
+

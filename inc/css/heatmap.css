@@ -1,0 +1,28 @@
+
+#main_container{width:100%;height:100%;clear:both}
+#left{float:left;width:175px;height:auto;border: 0px solid #EEE;}
+#colorkey{width:175px;height:175px;}
+#ll{width:175px;height:480px;margin-top: 0px; overflow:scroll;border-top: 0px solid #EEE;position: relative;}
+#ll img{width:auto;height:auto;}
+#l_{float:left;width: auto;height:auto;padding: 0px;margin: 0px;}
+#tt{width:100%;height:175px;overflow:scroll;margin:0px;border:0px solid #EEE;border-left:0px;position: relative;}
+#tt img{width:auto;height:auto;}
+#t_{width:100%;height:150px;overflow:hidden;margin:0px;border: 0px solid #EEE;}
+#t_ .col{height:150px;width:16px;float:left;text-align:left;font-size: 12px;writing-mode: tb-lr;margin: 0px;cursor: default;padding-top: 15px;}
+#t_ span{}
+#heatmap{width:100%;height:auto;overflow: scroll;position: relative;border-left: 0px solid #EEE;}
+#img img{width: 100%;height:100%;}
+#sr_{float:left; width: 150px; height:auto;margin-top: 0px; overflow:hidden;border: 0px solid #EEE;}
+#s_{width:100%;height:175px;border-bottom:0px solid #EEE;padding:0px;font-size:12px;}
+#s_ .score{width:100%;padding:5px;}
+#r_{float:left; width: 150px; height:auto;margin-top: 0px; overflow:hidden;}
+
+#r_ p{height: 16px;line-height: 16px;margin: 0px;margin-left: 15px;padding: 0px;font-size: 12px;cursor:default;}
+#rname{display:none}
+#cname{display:none}
+#heatmap #line_x{position: absolute;width: 478px;height: 2px;background-color:yellow;z-index: 5;left: 0px;}
+#heatmap #line_x1,#heatmap #line_x2{position: absolute;width: 478px;height: 2px;background-color:yellow;z-index: 5;left: 0px;}
+#heatmap #line_y{position: absolute;width: 2px;height: 460px;background-color:yellow;z-index: 5;top:0px;}
+#ll_line_x,#ll_line_x1,#ll_line_x2{position: absolute;width: 160px;height: 2px;background-color:#46A3FF;z-index: 5;left: 0px;}
+#tt_line_y{position: absolute;width: 2px;height: 160px;background-color:#46A3FF;z-index: 5;top:0px;}
+.ss_loading{width: 100%;height: 100%;margin: 0px auto;background:url('../img/loader.gif') no-repeat center;display:none;}

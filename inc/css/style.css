@@ -1,0 +1,260 @@
+/* http://meyerweb.com/eric/tools/css/reset/ */
+/* v1.0 | 20080212 */
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center,
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { font-size: 100%; vertical-align: baseline; background: transparent; }
+body { line-height: 1; }
+
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after, q:before, q:after { 	content: ''; 	content: none; }
+
+/* remember to define focus styles! */
+:focus { outline: 0; }
+
+/* remember to highlight inserts somehow! */
+ins { text-decoration: none; }
+del { text-decoration: line-through; }
+
+/* tables still need 'cellspacing="0"' in the markup */
+table { border-collapse: collapse; border-spacing: 0; }
+
+/*global*/
+* { margin: 0; padding: 0; }
+a { color: #000; text-decoration: none; }
+a:hover {text-decoration: underline; }
+body, ul { margin: 0;  font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: #747270;  overflow: auto; line-height: 1.20em; }
+h1 { font-weight: bold; color: #747270; font-size: 30px; line-height: 30px; padding: 5px;}
+h2 { font-weight: bold; color: #747270; font-size: 20px; line-height: 20px; padding: 5px;}
+h3 { font-weight: bold; color: #747270; font-size: 18px; line-height: 18px; padding: 5px;}
+h4 { font-weight: bold; color: #747270; font-size: 12px; line-height: 12px; padding: 5px;}
+h5 { font-weight: bold; color: #747270; font-size: 11px; line-height: 11px; padding: 5px;}
+h6 { font-weight: bold; color: #747270; font-size: 10px; line-height: 10px; padding: 5px;}
+p {color:#666;}
+
+/*h1,h2,h3,h4,h5,h6 {
+letter-spacing:1px;
+ margin-bottom: 10px; text-shadow: 0px 1px 1px #D8D5D2;
+}*/
+
+img {border: 0;}
+
+img.logo {
+    margin: 25px 0 0 0;
+}
+
+.box a{
+    color: #000; text-decoration: none; }
+
+.box a:hover {
+    text-decoration: underline;
+}
+
+
+.box ul {
+    text-indent: 10px;
+}
+
+#global {
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+.box p {
+    margin-top: 10px;
+    margin-bottom:10px;
+    padding: 5px;
+}
+
+#main {
+    padding-top: 20px;
+    padding-bottom:50px;
+    width: 1120px;
+    margin-left: 8%;
+}
+
+.caption-wrapper {
+    float: left;
+}
+
+
+.box {
+    background: transparent;
+    font-size: 11px;
+    margin: 5px;
+    float: left;
+}
+
+.col1 { width: 300px; }
+.col2 { width: 450px; }
+.col3 { width: 300px; }
+.col4 { width: 150px; }
+.col5 { width: 600px; }
+
+.white {
+    background-color: #fff;
+}
+
+.white p {
+    color: #000;
+}
+
+.black {
+    background-color: #000;
+}
+
+.black p {
+    color: #fff;
+}
+
+.shadow{
+    color: #666;
+    font: 30px Helvetica, Arial, Sans-Serif;
+    text-shadow:#fff 0px 1px 0, #000 0 -1px 0;
+
+}
+
+.title1 {
+    font: bold 30px Georgia, Serif;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+
+#nav a{
+    text-decoration: none;
+}
+
+#holder { display: none; }
+
+
+
+
+
+
+.expandable {
+    display: none;
+}
+
+.main_image {
+    width: 510px;
+    float: left;
+    margin: 0;
+
+}
+
+.gene_intro{
+    width: 350px;
+}
+.about{
+    width: 770px;
+}
+
+.description {
+    margin-top: 0px;
+    width: 260px;
+    float:right;
+    overflow: auto;
+}
+
+.geneNamesWith, .filepath, .geneNamesWithIn{
+    width: 350px;
+    height: 20px;
+}
+.description p{
+    margin: 10px;
+
+}
+.genewith p{
+    margin: 2px 7px;
+}
+.upload{
+    margin: 2px 7px;
+}
+.box {
+    cursor: pointer;
+}
+
+.magnifier {
+    width: 36px;
+    height: 36px;
+    /*background: transparent url(http://thinquetanque.com/images/zoom.png) no-repeat;*/
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 1.2em;
+    color: #fff;
+    padding: 0;
+}
+
+
+
+/* menu */
+
+ul#sliding-navigation
+{
+    list-style: none;
+    font-size: 1.25em;
+    margin: 30px 0;
+}
+
+ul#sliding-navigation li.sliding-element h3,
+ul#sliding-navigation li.sliding-element a
+{
+    display: block;
+    width: 150px;
+    padding: 5px 15px;
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+ul#sliding-navigation li.sliding-element h3
+{
+    color: #fff;
+    background: #333;
+    border: 1px solid #1a1a1a;
+    font-weight: normal;
+}
+
+ul#sliding-navigation li.sliding-element a
+{
+    color: #999;
+    background: #222;
+    border: 1px solid #1a1a1a;
+    text-decoration: none;
+}
+
+ul#sliding-navigation li.sliding-element a:hover { color: #ffff66; }
+
+/* captions */
+.caption-top, .caption-bottom {
+    color: #ffffff;	
+    padding: 10px;	
+    font-style: italic;
+    font-size: 11px;	
+    font-family: arial;	
+    cursor: pointer;
+    border-top: 0px solid #ccc;
+    background: #000000;
+    text-shadow: 1px 1px 0 #202020;
+}
+.caption-top {
+    border-width: 0px 0px 8px 0px;
+}
+.caption-bottom {
+    border-width: 1px 0px 0px 0px;
+}
+.caption a, .caption a {
+    border: 0 none;
+    text-decoration: none;
+    background: #000000;
+    padding: 3px;
+}
+.caption a:hover, .caption a:hover {
+    background: #202020;
+}
+
+/*slideshow*/

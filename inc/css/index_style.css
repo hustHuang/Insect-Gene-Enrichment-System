@@ -1,0 +1,43 @@
+
+ *{margin: 0;padding: 0;}
+ body{background:#2B363C;font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;}
+.main{width: 960px;height:580px;position:absolute;top:40%;left:50%;margin-left:-380px;margin-top:-240px;}
+.clear{clear:both;}
+.center{width: 880px;overflow: hidden;position: relative;height: 580px;margin-top: 150px;}
+
+/*********右侧search主区域************/
+ h1{font-weight: normal;color: #ffffff;font-size: 60px;line-height: 75px;}
+.h1_text{position: relative;left:150px}
+.search_area{width: 868px;height: 60px;width: 770px;margin-top: 10px;}
+.search_area .search_text{line-height:40px;font-size: 20px;width:700px;height: 40px;border:0;background:#000 fixed;color: #ffffff;margin:10px 10px 10px 0;padding-left: 5px;padding-right: 5px;float: left}
+.search_area .search_btn{background:#2B363C;height: 48px;width: 48px;margin: 6px 0px;border:none;cursor:pointer;float: right;font-size: 30px;font-weight: 600;color: #ffffff}
+/*.search_area .search_btn{background: url('../images/search_btn.png') no-repeat transparent;height: 48px;width: 48px;margin: 6px 0 6px 0;display: block;border:none;cursor:pointer;float: right;display: inline}*/
+
+/*********设置搜索参数************/
+.set_search{height: 70px}
+.set_search a{color: #ffffff;}
+.show_upload:hover{color:#1ba1e2}
+.set__parameters:hover{color: #1ba1e2}
+
+.upload_genelist{width: 611px;}
+.upload_genelist a{height: 35px;float: left;}
+.show_upload_genelist{display: none;color: #ffffff;margin-left: 155px;}
+.show_upload_genelist p{font-size: 14px;line-height: 15px}
+
+.set_search_parameters a{height: 35px;float: left}
+.show_parameters{display: none;font-size: 14px;background-color: #1E5B92;color: #ffffff;width: 400px;height: 250px;z-index: 1;margin: 0 0 0 212px}
+.show_parameters p{padding: 5px 10px 5px 5px;float: left;width: 300px;text-align: right;}
+.show_parameters input{width: 50px;height: 25px;font-size: 16px;margin-top: 5px;background: none repeat fixed 0 0 #ffffff;color: #000000;border: 0 none;line-height:25px}
+
+.zk1{font-size: 10px;margin-left: 5px;color: #b11e39;width: 14px}
+.zk2{font-size: 10px;margin-left: 5px;color: #b11e39;width: 14px}
+
+/*********上传************/
+.file-box{ position:relative;width:340px}
+.txt{float:left;height:27px; border:none; width:324px;background: none repeat fixed #626262;line-height:27px}
+/*.btn{background-color:#008287;height:24px; width:60px;cursor: pointer;border: none;color: #ffffff;}*/
+.btn{float:right;background-color:#008287;height:26px; width:125px;cursor: pointer;border: none;color: #ffffff;line-height: 26px;margin-right: 2px;font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;}
+.file{position:absolute; top:0; right:0px; height:26px; filter:alpha(opacity:0);opacity: 0;width:260px;line-height: 26px} 
+.btn:hover{color: #000000;}
+
+

@@ -1,0 +1,43 @@
+// JavaScript Document
+$(document).ready(function(){
+		$('.button').click(function(){
+				if(this.id==='select'){
+					$('#selectpanel').slideToggle('fast',function(){
+							$('#select').toggleClass('buttonclick');
+						});
+				}
+				else if(this.id==='setsearch'){
+					$('#searchpanel').slideToggle('fast',function(){
+							$('#setsearch').toggleClass('buttonclick');
+						});
+				}
+				else if(this.id==='setresult'){
+					$('#modepanel').slideToggle('fast',function(){
+							$('#setresult').toggleClass('buttonclick');
+						});
+				};
+			});
+		$('#setsearch').trigger('click');
+		$('#setresult').trigger('click');
+		$('.selecttext').blur(function(){
+				if(this.value.length!=0)
+				{
+					//如果文本框不为空，启用按钮
+					$('.gobutton').addClass('goenabled');
+				}
+				else
+				{
+					//如果为空，则禁用按钮
+					$('.gobutton').removeClass('goenabled');
+				}
+			});
+		/*$("#select").click(function(){
+    		$("#selectpanel").slideToggle("slow");
+ 		 });
+		$("#setsearch").click(function(){
+    		$("#searchpanel").slideToggle("slow");
+ 		 });
+		$("#setresult").click(function(){
+    		$("#modepanel").slideToggle("slow");
+ 		 });*/
+	});
