@@ -9,7 +9,7 @@ analysis the yeast gene interactions , make a database and RIA platform
 
 ### 项目描述
 
-    分析酵母的基因关系的数据，构建数据库查询及富用户交互系统
+    分析酵母的基因关系的数据，构建数据库查询及用户交互系统
   
 ### 涉及技术
 
@@ -22,10 +22,6 @@ analysis the yeast gene interactions , make a database and RIA platform
 ### 开发人员
 
      Wang ，Lin ，Liu ，Huang
-     
-### 个人职责
-     
-     前端开发
 
 ### 完成日期
     
